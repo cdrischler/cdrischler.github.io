@@ -9,56 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Assistant Professor and FRIB Theory Alliance bridge faculty, Ohio University, 2022-today
+* FRIB Theory Fellow (Visiting Assistant Professor), Facility for Rare Isotope Beams at Michigan State University, 2020-2022
+* Humboldt Fellow, University of California, Berkeley, and Lawrence Berkeley National Laboratory, 2019-2020
+* Postdoctoral researcher, University of California, Berkeley, and Lawrence Berkeley National Laboratory, 2017-2019
+* Ph.D., Physics, Technical University Darmstadt, Germany, 2017
+* M.Sc., Physics, Technical University Darmstadt, Germany, 2014
+* B.Sc., Physics, Technical University Darmstadt, Germany, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Awards and honors
+======= 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* National Science Foundation (NSF) CAREER Award, 2024 to present
+* Inaugural FRIB Early Achievement Award (theory), Facility for Rare Isotope Beams at Michigan State University, 2021
+* FRIB Theory Alliance Fellowship, 2020-2022
+* Feodor Lynen Fellowship of the Alexander von Humboldt Foundation, 2019-2020
+* Research Award of the Gerhard Herzberg Foundation at Technical University Darmstadt, 2018
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Funding
+======= 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [National Science Foundation's CAREER: Nuclear Matter from Chiral Effective Field Theory in the FRIB & Multimessenger Era (2339043)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339043&HistoricalAwards=false)
+* [Department of Energy's STREAMLINE Collaboration: Machine Learning for Nuclear Many-Body Systems
+Award Status: Active (DE-SC0024233)](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=66cb84af-5b64-41f7-a2a8-47c38f44ef3f&rtc=24&PRoleId=10)
