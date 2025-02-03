@@ -23,8 +23,6 @@ I'm collaborating with:
 * _Bayesian Uncertainty Quantification: Errors in Your EFT_ ([BUQEYE](https://buqeye.github.io/)) collaboration, and
 * NSF Bayesian Analysis of Nuclear Dynamics ([BAND](https://bandframework.github.io/)) Framework
 
-The complete list of my publications can be found on [inspirehep.net](https://inspirehep.net/authors/1405840?ui-citation-summary=true).
-
 Don't hesitate to contact me if you are interested in a Research Fellowship of the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) (such as the [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship)) hosted by me at Ohio University.
 
 
