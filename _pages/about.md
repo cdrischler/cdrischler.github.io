@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor of Physics and [FRIB](https://frib.msu.edu/) Bridge Faculty at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at Ohio University. I'm also a member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/content/executive_board.php). 
+**This website is under construction!**
+
+My name is Christian Drischler. I'm an Assistant Professor of Physics and [FRIB](https://frib.msu.edu/) Bridge Faculty at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at Ohio University. I'm also a member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/content/executive_board.php). 
+
+My research is at the intersection of theoretical nuclear physics and nuclear astrophysics. I'm using microscopic methods to shed light on strongly interacting, dense matter in the universe.
 
 My current research interests include:
 * Neutron stars
@@ -19,21 +23,15 @@ My current research interests include:
 * Computational physics
 
 I'm collaborating with:
-* NSF Physics Frontier Center _Network for Neutrinos, Nuclear Astrophysics, and Symmetries_ ([N3AS](https://n3as.berkeley.edu/))
-* _Bayesian Uncertainty Quantification: Errors in Your EFT_ ([BUQEYE](https://buqeye.github.io/)) collaboration, and
-* NSF Bayesian Analysis of Nuclear Dynamics ([BAND](https://bandframework.github.io/)) Framework
+* NSF-funded Physics Frontier Center _Network for Neutrinos, Nuclear Astrophysics, and Symmetries_ ([N3AS](https://n3as.berkeley.edu/))
+* _Bayesian Uncertainty Quantification: Errors in Your EFT_ ([BUQEYE](https://buqeye.github.io/)) collaboration,
+* NSF-funded Bayesian Analysis of Nuclear Dynamics ([BAND](https://bandframework.github.io/)) Framework, and
+* DOE-funded SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment (STREAMLINE)
 
-Don't hesitate to contact me if you are interested in a Research Fellowship of the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) (such as the [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship)) hosted by me at Ohio University.
-
-**This website is under construction!**
-
-## In the News
-
-* [Dr. Christian Drischler receives 2024 NSF CAREER Award to advance research, educate students and community](https://www.ohio.edu/news/2024/09/dr-christian-drischler-receives-2024-nsf-career-award-advance-research-educate)
-* [Ohio University physicists aim to bring artificial intelligence, machine learning and computational tools to nation's researchers](https://www.ohio.edu/news/2023/09/ohio-university-physicists-aim-bring-artificial-intelligence-machine-learning)
+> Don't hesitate to contact me if you are interested in a Research Fellowship of the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) (such as the [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship)) hosted by me at Ohio University.
 
 
-## Research Group
+## Research group at Ohio University
 
 My current research group consists of:
 * [Jane Kim](https://www.ohio.edu/cas/janekim) (postdoc)
@@ -42,5 +40,18 @@ My current research group consists of:
 * [Grace Eichler](https://www.linkedin.com/in/grace-eichler-b87a772b4) (undergrad student)
 
 Previous members:
-* [Joshua Maldonado](https://www.ohio.edu/cas/jm998521) (grad student, M.S. thesis 2024, summer 2023 to summer 2024, STREAMLINE collaboration)
+* [Joshua Maldonado](https://www.ohio.edu/cas/jm998521) (grad student, M.S. thesis 2024, summer 2023 through summer 2024, STREAMLINE collaboration)
 * [Unish Gautam](https://www.ohio.edu/cas/ug783023) (grad student, summer 2024)
+
+## Quick links
+
+* [Spring 2025 INPP Seminars](https://inpp.ohio.edu/~inpp/seminars.html)
+* [Spring 2025 INPP Nuclear Lunch](https://inpp.ohio.edu/~inpp/nuclear_lunch/nuclear_lunch.html)
+* [Public Telescope Nights](https://www.ohio.edu/cas/physics-astronomy/research/facilities-labs/observatory/public-telescope-nights) at the Ohio University Observatory
+* [Ohio University Academic Calendar](https://www.ohio.edu/registrar/academic-calendar)
+* [Physics & Astronomy Colloquium Series](https://www.ohio.edu/cas/physics-astronomy/news-events/colloquium-series)
+
+## In the news
+
+* [Dr. Christian Drischler receives 2024 NSF CAREER Award to advance research, educate students and community](https://www.ohio.edu/news/2024/09/dr-christian-drischler-receives-2024-nsf-career-award-advance-research-educate)
+* [Ohio University physicists aim to bring artificial intelligence, machine learning and computational tools to nation's researchers](https://www.ohio.edu/news/2023/09/ohio-university-physicists-aim-bring-artificial-intelligence-machine-learning)

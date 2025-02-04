@@ -55,11 +55,6 @@ var addressPoints = [
     -81.3790304
   ],
   [
-    "Amherst, MA, USA",
-    42.3731948,
-    -72.5198761
-  ],
-  [
     "Champaign, IL, USA",
     40.1164841,
     -88.2430932
