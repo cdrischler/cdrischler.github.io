@@ -53,5 +53,6 @@ Previous members:
 
 ## In the news
 
+* [By studying neutron 'starquakes,' scientists hope to transform their understanding of nuclear matter](https://phys.org/news/2025-02-neutron-starquakes-scientists-nuclear.html)
 * [Dr. Christian Drischler receives 2024 NSF CAREER Award to advance research, educate students and community](https://www.ohio.edu/news/2024/09/dr-christian-drischler-receives-2024-nsf-career-award-advance-research-educate)
 * [Ohio University physicists aim to bring artificial intelligence, machine learning and computational tools to nation's researchers](https://www.ohio.edu/news/2023/09/ohio-university-physicists-aim-bring-artificial-intelligence-machine-learning)
