@@ -25,8 +25,8 @@ My current research interests include:
 I'm collaborating with:
 * NSF-funded Physics Frontier Center _Network for Neutrinos, Nuclear Astrophysics, and Symmetries_ ([N3AS](https://n3as.berkeley.edu/))
 * _Bayesian Uncertainty Quantification: Errors in Your EFT_ ([BUQEYE](https://buqeye.github.io/)) collaboration,
-* NSF-funded Bayesian Analysis of Nuclear Dynamics ([BAND](https://bandframework.github.io/)) Framework, and
-* DOE-funded SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment (STREAMLINE)
+* NSF-funded _Bayesian Analysis of Nuclear Dynamics_ ([BAND](https://bandframework.github.io/)) Framework, and
+* DOE-funded _SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment_ (STREAMLINE)
 
 > Don't hesitate to contact me if you are interested in a Research Fellowship of the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) (such as the [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship)) hosted by me at Ohio University.
 
@@ -53,5 +53,6 @@ Previous members:
 
 ## In the news
 
+* [By studying neutron 'starquakes,' scientists hope to transform their understanding of nuclear matter](https://phys.org/news/2025-02-neutron-starquakes-scientists-nuclear.html)
 * [Dr. Christian Drischler receives 2024 NSF CAREER Award to advance research, educate students and community](https://www.ohio.edu/news/2024/09/dr-christian-drischler-receives-2024-nsf-career-award-advance-research-educate)
 * [Ohio University physicists aim to bring artificial intelligence, machine learning and computational tools to nation's researchers](https://www.ohio.edu/news/2023/09/ohio-university-physicists-aim-bring-artificial-intelligence-machine-learning)
