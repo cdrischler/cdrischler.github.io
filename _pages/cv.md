@@ -12,6 +12,8 @@ redirect_from:
 Below is brief version of my curriculum vitae.
 
 **Dr. Christian Drischler**    
+Assistant Professor    
+FRIB-TA Bridge Faculty    
 Department of Physics and Astronomy   
 Clippinger Laboratories 265    
 139 University Terrace    
@@ -20,8 +22,8 @@ Athens, OH 45701-2979
 
 ## Academic positions
 
-* **Assistant Professor and FRIB Theory Alliance Bridge Faculty, Ohio University, 2022-today**
-* **Adjunct Assistant Professor, Facility for Rare Isotope Beams (FRIB) at Michigan State University (MSU), 2022-today**
+* Assistant Professor and FRIB Theory Alliance Bridge Faculty, Ohio University, 2022-today
+* Adjunct Assistant Professor, Facility for Rare Isotope Beams (FRIB) at Michigan State University (MSU), 2022-today
 * FRIB Theory Fellow (Visiting Assistant Professor), Facility for Rare Isotope Beams at Michigan State University, 2020-2022
 * Feodor-Lynen ("Humboldt") Fellow of the Alexander von Humboldt Foundation, University of California, Berkeley, and Lawrence Berkeley National Laboratory, 2019-2020
 * Postdoctoral researcher, University of California, Berkeley, and Lawrence Berkeley National Laboratory, 2017-2019
