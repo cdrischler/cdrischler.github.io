@@ -25,8 +25,8 @@ My current research interests include:
 I'm collaborating with:
 * NSF-funded Physics Frontier Center _Network for Neutrinos, Nuclear Astrophysics, and Symmetries_ ([N3AS](https://n3as.berkeley.edu/))
 * _Bayesian Uncertainty Quantification: Errors in Your EFT_ ([BUQEYE](https://buqeye.github.io/)) collaboration,
-* NSF-funded Bayesian Analysis of Nuclear Dynamics ([BAND](https://bandframework.github.io/)) Framework, and
-* DOE-funded SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment (STREAMLINE)
+* NSF-funded _Bayesian Analysis of Nuclear Dynamics_ ([BAND](https://bandframework.github.io/)) Framework, and
+* DOE-funded _SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment_ (STREAMLINE)
 
 > Don't hesitate to contact me if you are interested in a Research Fellowship of the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) (such as the [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship)) hosted by me at Ohio University.
 
