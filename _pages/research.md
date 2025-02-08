@@ -43,9 +43,11 @@ This research is naturally **collaborative**, and I'm grateful to my colleagues 
 * NSF-funded Physics Frontier Center _Network for Neutrinos, Nuclear Astrophysics, and Symmetries_ ([N3AS](https://n3as.berkeley.edu/))
 * _Bayesian Uncertainty Quantification: Errors in Your EFT_ ([BUQEYE](https://buqeye.github.io/)) collaboration,
 * NSF-funded _Bayesian Analysis of Nuclear Dynamics_ ([BAND](https://bandframework.github.io/)) Framework, and
-* DOE-funded _SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment_ (STREAMLINE)
+* DOE-funded _SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment_ (STREAMLINE) collaboration.
 
-Interested in EOS physics and fast and accurate emulators for nuclear physics? If so, feel free to get in touch with me. I'm always happy to discuss this research with anyone interested. In the meantime, let me draw your attention to the following pedagogical review articles for **further reading**:
+Interested in EOS physics and fast and accurate emulators for nuclear physics? 
+
+If so, feel free to get in touch with me. I'm always happy to discuss this research with anyone interested. In the meantime, let me draw your attention to the following pedagogical review articles for **further reading**:
 
 * Drischler, C., Holt, J. W., and Wellenhofer, C. (2021): Chiral Effective Field Theory and the High-Density Nuclear Equation of State. [Annu. Rev. Nucl. Part. Sci. **71**, 403](https://doi.org/10.1146/annurev-nucl-102419-041903).
 * Drischler, C., Melendez, J. A., Furnstahl, R. J., Garcia, A. J., and Zhang, Xilin (2022): BUQEYE Guide to Projection-Based Emulators in Nuclear Physics. [Front. Phys. **10**, 92931](https://doi.org/10.3389/fphy.2022.1092931) ([source code]([https://github.com/cdrischler/nuclear_saturation](https://github.com/buqeye/frontiers-emulator-review))).

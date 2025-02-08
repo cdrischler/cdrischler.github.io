@@ -42,7 +42,7 @@ Athens, OH 45701-2979
 * Feodor Lynen Fellowship of the Alexander von Humboldt Foundation, 2019-2020
 * Research Award of the Gerhard Herzberg Foundation at Technical University Darmstadt, 2018
 * Fellowship of the DLR_Graduate_Program, 2015-2017
-* State of Hesse Research Award at "Youth Researches" (Jugend forscht) and Award of the German Statutory Accident Insurance
+* State of Hesse Research Award and Award of the German Statutory Accident Insurance at "Youth Researches" (Jugend forscht) for the project _I beg your pardon? Do musicians really hear worse?_, 2008
 
 ## Teaching
 
@@ -63,10 +63,13 @@ The course **PHYS 4071/5071** provides a comprehensive introduction to numerical
 
 ## Service
 
-* Co-host of [Public Telescope Nights](https://www.ohio.edu/cas/physics-astronomy/research/facilities-labs/observatory/public-telescope-nights) at the Ohio University Observatory
-* Faculty Advisor for the Student Organization “Physics and Astronomy Graduate Students” ([PandA GradS](https://www.ohio.edu/cas/physics-astronomy/student-organizations#graduate-students)) at Ohio University, 2022-today
 * Elected member of the Executive Board of the FRIB Theory Alliance, 2024-2027
-* Organizer of the 2024 MITP program "Uncertainty Quantification in Nuclear Physics" at Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg University Mainz (co-organizers: Weiguang Jiang, Takayuki Miyagi, and Joanna Sobczyk)
+* Organizer of the 2024 MITP program [Uncertainty Quantification in Nuclear Physics](https://indico.mitp.uni-mainz.de/event/356/) at Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg University Mainz (co-organizers: Weiguang Jiang, Takayuki Miyagi, and Joanna Sobczyk), 2024
+* Co-host of [Public Telescope Nights](https://www.ohio.edu/cas/physics-astronomy/research/facilities-labs/observatory/public-telescope-nights) at the Ohio University Observatory, 2022-today
+* Faculty Advisor of the Student Organization “Physics and Astronomy Graduate Students” ([PandA GradS](https://www.ohio.edu/cas/physics-astronomy/student-organizations#graduate-students)) at Ohio University, 2022-today
+* Various committee work at Ohio University, 2022-today 
+* Referee for scientific journals, including Phys. Rev. C, Phys. Rev. Lett., and Phys. Lett. B, 2018-today 
+* (and more)
 
 ## Funding 
 
@@ -80,7 +83,7 @@ The complete list can be found on [inspirehep.net](https://inspirehep.net/author
 
 ## Talks
 
-The complete list can be found on [Talks page](/talks/index.html).
+The complete list can be found on the [Talks page](/talks/index.html).
 
 ## Thesis advisees
 
