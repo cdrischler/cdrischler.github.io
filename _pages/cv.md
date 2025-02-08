@@ -52,6 +52,15 @@ Athens, OH 45701-2979
 * Fall 2023: Computer Simulation Methods in Physics (PHYS 4071/5071)
 * Summer 2023: [Computational Physics Summer Tutorials (PHYS 6900)](https://github.com/cdrischler/compphysics-summer-tutorials)
 
+The course **PHYS 4071/5071** provides a comprehensive introduction to numerical methods and computational tools to solve problems in physics using the `Python` programming language. Students are introduced to numerical methods and the process of approaching scientific problems from a computational point of view. Topics covered include:
+
+* numerical differentiation and integration methods,
+* numerical error analysis,
+* numerical linear algebra,
+* data fitting,
+* Monte Carlo strategies, and
+* parallel computing.
+
 ## Service
 
 * Co-host of [Public Telescope Nights](https://www.ohio.edu/cas/physics-astronomy/research/facilities-labs/observatory/public-telescope-nights) at the Ohio University Observatory
