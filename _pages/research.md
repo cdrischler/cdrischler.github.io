@@ -13,7 +13,9 @@ I study strongly interacting, strongly correlated matter, ranging from atomic nu
 * What is the nature of matter at extreme temperatures and densities? 
 * How does subatomic matter organize itself, and what phenomena emerge?
   
-My research, which is funded by both DOE and NSF, aims to advance our microscopic understanding of the nuclear EOS, the structure and evolution of neutron stars, and the nucleosynthesis of heavy elements in the universe. To this end, I leverage chiral EFT of low-energy QCD, many-body theory, and state-of-the-art computational methods to solve the **nuclear many-body problem** with quantified uncertainties. My original research has made original contributions to the fields of nuclear physics and nuclear astrophysics and has been recognized internationally by research fellowships and awards and invitations to give plenary talks and write review articles.
+My research, which is funded by both DOE and NSF, aims to advance our microscopic understanding of the nuclear EOS, the structure and evolution of neutron stars, and the nucleosynthesis of heavy elements in the universe. 
+
+To this end, I leverage chiral EFT of low-energy QCD, many-body theory, and state-of-the-art computational methods to solve the **nuclear many-body problem** with quantified uncertainties. My original research has made original contributions to the fields of nuclear physics and nuclear astrophysics and has been recognized internationally by research fellowships and awards and invitations to give plenary talks and write review articles.
 
 Nuclear theory has made **tremendous progress** in developing chiral EFT into a powerful framework for deriving nuclear forces consistent with the symmetries of low-energy QCD. I have contributed to this progress with several new ideas in chiral EFT, many-body theory, Bayesian machine learning (ML),
 and their applications to study neutron star physics. 
