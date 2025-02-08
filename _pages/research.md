@@ -9,7 +9,9 @@ redirect_from:
 
 I'm a theoretical physicist working at the intersection of nuclear physics and nuclear astrophysics. My research interests include applications of chiral effective field theory (EFT) and many-body theory to derive **microscopic constraints on the nuclear matter equation of state (EOS)** and the structure of neutron stars. I have been developing Bayesian statistical methods and fast & accurate emulators to facilitate **rigorous uncertainty quantification** and statistically robust comparisons between nuclear theory, observational, and experimental constraints on the EOS obtained in the FRIB and multimessenger era.
 
-I study strongly interacting, strongly correlated matter, ranging from atomic nuclei probed by laboratory experiments to neutron stars observed by multimessenger astronomy. Although the theory of strong interactions, **quantum chromodynamics (QCD)**, describes nuclear matter over all relevant density scales, no microscopic framework is currently available to predict the EOS and composition of the high-density matter in heavy neutron stars' cores. While a lot has recently been learned about dense matter through neutron star observation, heavy-ion collisions, and theory predictions, many key questions remain unanswered; for example:
+I study strongly interacting, strongly correlated matter, ranging from atomic nuclei probed by laboratory experiments to neutron stars observed by multimessenger astronomy. Although the theory of strong interactions, **quantum chromodynamics (QCD)**, describes nuclear matter over all relevant density scales, no microscopic framework is currently available to predict the EOS and composition of the high-density matter in heavy neutron stars' cores. 
+
+While a lot has recently been learned about dense matter through neutron star observation, heavy-ion collisions, and theory predictions, many key questions remain unanswered; for example:
 * What is the nature of matter at extreme temperatures and densities? 
 * How does subatomic matter organize itself, and what phenomena emerge?
   
