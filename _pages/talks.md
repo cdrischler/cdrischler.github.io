@@ -11,6 +11,10 @@ Below is the list of seminar and colloquium talks I have given since 2018. The l
 
 <iframe src="map.html" height="500px" width="100%" style="border:none;"></iframe>
 
+## 2025
+
+* Fast and accurate emulators for nuclear scattering, March 10, invited seminar, Institute for Nuclear Theory, Seattle, WA, USA
+
 ## 2024
 
 * Fast and accurate emulators for nuclear physics and beyond, November 19, invited Department of Mathematics colloquium, Ohio University, Athens, Ohio, USA
