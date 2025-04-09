@@ -18,10 +18,11 @@ Below is a selection of my scientific publications. The complete list can be fou
 
 ## Recent papers
 
+* Maldonado, J. M., Drischler, C., Furnstahl, R. J., and Mlinarić, P. (2025): Greedy Emulators for Nuclear Two-Body Scattering, [arXiv:2504.06092](https://arxiv.org/abs/2504.06092).
 * Neill, D., Tsang, D., Drischler, C., Holt, J. W., and Newton, W. G. (2025): Resonant shattering flares as asteroseismic tests of chiral effective field theory, [Phys. Rev. C **111**, 015809](https://doi.org/10.1103/PhysRevC.111.015809).
 * Kumamoto, M., Huang, J., Drischler, C., Baryakhtar, M., and Reddy, S. (2024): Pi in the Sky: Neutron Stars with Exceptionally Light QCD Axions, [arXiv:2410.21590](https://arxiv.org/abs/2410.21590).
 * Drischler, C., Giuliani, P. G., Bezoui, S., Piekarewicz, J., and Viens, F. (2024): A Bayesian mixture model approach to quantifying the empirical nuclear saturation point, [Phys. Rev. C **110**, 044320](https://doi.org/10.1103/PhysRevC.110.044320) ([source code](https://github.com/cdrischler/nuclear_saturation)).
-* Semposki, A. C., Drischler, C., Furnstahl, R. J., Melendez, J. A., and Phillips, D. R. (2024): From chiral EFT to perturbative QCD: a Bayesian model mixing approach to symmetric nuclear matter, [arXiv:2404.06323](https://arxiv.org/abs/2404.06323).
+* Semposki, A. C., Drischler, C., Furnstahl, R. J., Melendez, J. A., and Phillips, D. R. (2024): From chiral EFT to perturbative QCD: a Bayesian model mixing approach to symmetric nuclear matter, [Phys. Rev. C **111**, 035804](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.111.035804).
 
 
 ## Selected publications
