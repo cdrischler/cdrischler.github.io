@@ -35,11 +35,11 @@ My current research group consists of:
 * [Jane Kim](https://www.ohio.edu/cas/janekim) (postdoc)
 * [Yoon Gyu Lee](https://www.ohio.edu/cas/yl518521) (grad student)
 * [Abhinav Giri](https://www.ohio.edu/cas/ag086822) (grad student, STREAMLINE collaboration)
-* [Grace Eichler](https://www.linkedin.com/in/grace-eichler-b87a772b4) (undergrad student)
 
 Previous members:
 * [Joshua Maldonado](https://www.ohio.edu/cas/jm998521) (grad student, M.S. thesis 2024, summer 2023 through summer 2024, STREAMLINE collaboration)
 * [Unish Gautam](https://www.ohio.edu/cas/ug783023) (grad student, summer 2024)
+* [Grace Eichler](https://www.linkedin.com/in/grace-eichler-b87a772b4) (undergrad HTC student)
 
 ## Quick links
 
