@@ -13,6 +13,7 @@ Below is the list of seminar and colloquium talks I have given since 2018. The l
 
 ## 2025
 
+* How do we construct microscopic neutron star equations of state with quantified uncertainties?, May 9, invited Chalk Talk, Florida State University, FL, USA
 * Fast and accurate emulators for nuclear scattering, March 10, invited seminar, Institute for Nuclear Theory, Seattle, WA, USA
 
 ## 2024
