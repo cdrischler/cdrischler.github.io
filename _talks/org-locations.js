@@ -97,7 +97,7 @@ var addressPoints = [
   [
     "Trento, Italy",
     46.1029536,
-    11.12974249416882
+    11.1297425
   ],
   [
     "Palm\u00a0Springs, CA, USA",
@@ -113,5 +113,10 @@ var addressPoints = [
     "San Diego, CA, USA",
     32.7174202,
     -117.162772
+  ],
+  [
+    "Tallahassee, FL, USA",
+    30.4380832,
+    -84.2809332
   ]
 ];
