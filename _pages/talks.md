@@ -13,6 +13,7 @@ Below is the list of seminar and colloquium talks I have given since 2018. The l
 
 ## 2025
 
+* Fast & accurate emulators for two- and three-body scattering, July 15, invited talk, Workshop: Next generation ab initio nuclear theory (organizers: Barbieri, Epelbaum, Furnstahl, and Pastore), ECT*, Trento, Italy 
 * How do we construct microscopic neutron star equations of state with quantified uncertainties?, May 9, invited Chalk Talk, Florida State University, FL, USA
 * Fast and accurate emulators for nuclear scattering, March 10, invited seminar, Institute for Nuclear Theory, Seattle, WA, USA
 
