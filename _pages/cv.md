@@ -89,4 +89,4 @@ The complete list can be found on the [Talks page](/talks/index.html).
 ## Thesis advisees
 
 * Joshua Maldonado (summer 2023 through summer 2024), STREAMLINE collaboration, Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556).
-* Grace Eichler (summer 2024 through spring 2025), undergraduate HTC thesis: Sensitivity of the neutron star structure on the low-density equation of state parameters
+* Grace Eichler (summer 2024 through spring 2025), undergraduate HTC thesis: [Sensitivity of the neutron star structure on the low-density equation of state parameters](http://rave.ohiolink.edu/etdc/view?acc_num=ouhonors1745511553163446).
