@@ -76,6 +76,7 @@ The course **PHYS 4071/5071** provides a comprehensive introduction to numerical
 * National Science Foundation's CAREER: Nuclear Matter from Chiral Effective Field Theory in the FRIB & Multimessenger Era ([2339043](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339043&HistoricalAwards=false))
 * Department of Energy's STREAMLINE Collaboration: Machine Learning for Nuclear Many-Body Systems
 Award Status: Active ([DE-SC0024233](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=66cb84af-5b64-41f7-a2a8-47c38f44ef3f&rtc=24&PRoleId=10))
+* Ohio University startup funding
 
 ## Publications
 
