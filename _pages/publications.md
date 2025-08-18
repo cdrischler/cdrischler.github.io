@@ -16,13 +16,13 @@ Below is a selection of my scientific publications. The complete list can be fou
 * Drischler, C., Holt, J. W., and Wellenhofer, C. (2021): Chiral Effective Field Theory and the High-Density Nuclear Equation of State. [Annu. Rev. Nucl. Part. Sci. **71**, 403](https://doi.org/10.1146/annurev-nucl-102419-041903).
 * Drischler, C., Haxton, W., McElvain, K., Mereghetti, E., Nicholson, A., Vranas, P., and Walker-Loud, A. (2021): Towards grounding nuclear physics in QCD. [Prog. Part. Nucl. Phys. **121**, 103888](https://doi.org/10.1016/j.ppnp.2021.103888).
 
-## Recent papers
+## Selected recent papers
 
-* Maldonado, J. M., Drischler, C., Furnstahl, R. J., and Mlinarić, P. (2025): Greedy Emulators for Nuclear Two-Body Scattering, [arXiv:2504.06092](https://arxiv.org/abs/2504.06092).
+* Semposki, A. C., Drischler, C., Furnstahl, R. J., and Phillips, D. R. (2025): Microscopic constraints for the equation of state and structure of neutron stars: a Bayesian model mixing framework, [arXiv:2505.18921](https://arxiv.org/abs/2505.18921).
+* Maldonado, J. M., Drischler, C., Furnstahl, R. J., and Mlinarić, P. (2025): Greedy Emulators for Nuclear Two-Body Scattering, [Phys. Rev. C **112**, 024002](https://journals.aps.org/prc/abstract/10.1103/k77q-f82l) ([source code](https://github.com/buqeye/cs_greedy_emulator)).
 * Neill, D., Tsang, D., Drischler, C., Holt, J. W., and Newton, W. G. (2025): Resonant shattering flares as asteroseismic tests of chiral effective field theory, [Phys. Rev. C **111**, 015809](https://doi.org/10.1103/PhysRevC.111.015809).
-* Kumamoto, M., Huang, J., Drischler, C., Baryakhtar, M., and Reddy, S. (2024): Pi in the Sky: Neutron Stars with Exceptionally Light QCD Axions, [arXiv:2410.21590](https://arxiv.org/abs/2410.21590).
+* Kumamoto, M., Huang, J., Drischler, C., Baryakhtar, M., and Reddy, S. (2024): Pi in the Sky: Neutron Stars with Exceptionally Light QCD Axions, [Phys. Rev. D **112**, 043008 ](https://journals.aps.org/prd/abstract/10.1103/5zgm-z4v9).
 * Drischler, C., Giuliani, P. G., Bezoui, S., Piekarewicz, J., and Viens, F. (2024): A Bayesian mixture model approach to quantifying the empirical nuclear saturation point, [Phys. Rev. C **110**, 044320](https://doi.org/10.1103/PhysRevC.110.044320) ([source code](https://github.com/cdrischler/nuclear_saturation)).
-* Semposki, A. C., Drischler, C., Furnstahl, R. J., Melendez, J. A., and Phillips, D. R. (2024): From chiral EFT to perturbative QCD: a Bayesian model mixing approach to symmetric nuclear matter, [Phys. Rev. C **111**, 035804](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.111.035804).
 
 
 ## Selected publications

@@ -43,8 +43,8 @@ Previous members:
 
 ## Quick links
 
-* [Spring 2025 INPP Seminars](https://inpp.ohio.edu/~inpp/seminars.html)
-* [Spring 2025 INPP Nuclear Lunch](https://inpp.ohio.edu/~inpp/nuclear_lunch/nuclear_lunch.html)
+* [Spring INPP Seminars](https://inpp.ohio.edu/~inpp/seminars.html)
+* [Spring INPP Nuclear Lunches](https://inpp.ohio.edu/~inpp/nuclear_lunch/nuclear_lunch.html)
 * [Public Telescope Nights](https://www.ohio.edu/cas/physics-astronomy/research/facilities-labs/observatory/public-telescope-nights) at the Ohio University Observatory
 * [Ohio University Academic Calendar](https://www.ohio.edu/registrar/academic-calendar)
 * [Physics & Astronomy Colloquium Series](https://www.ohio.edu/cas/physics-astronomy/news-events/colloquium-series)
