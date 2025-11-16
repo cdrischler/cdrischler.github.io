@@ -13,6 +13,7 @@ Below is the list of seminar and colloquium talks I have given since 2018. The l
 
 ## 2025
 
+* [The Strong Force Awakens: A Neutron Star Story](https://www.youtube.com/watch?v=0BK1xyjJ0UQ), November 12, invited [Science Café](https://www.ohio.edu/sciencecafe), Ohio University, Athens, OH, USA 
 * From chiral effective field theory to perturbative QCD: A Bayesian model mixing approach to neutron star matter, October 9, invited Nuclear Science Seminar, University of Kentucky, Lexington, KY, USA
 * Active learning for the nuclear equation of state and nuclear scattering, August 14, contributing talk, Low Energy Community Meeting (LECM) 2025, Texas A&M University, College Station, TX, USA
 * Fast & accurate emulators for two- and three-body scattering, July 15, invited talk, Workshop: Next generation ab initio nuclear theory (organizers: Barbieri, Epelbaum, Furnstahl, and Pastore), ECT*, Trento, Italy 
