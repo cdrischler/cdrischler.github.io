@@ -51,6 +51,7 @@ Previous members:
 
 ## In the news
 
+* [Reduced Basis Method and Active Learning Emulate Proton-Deuteron Scattering, Reducing Computational Costs](https://quantumzeitgeist.com/learning-reduced-basis-method-active-emulate-proton-deuteron-scattering/)
 * [Starquakes Unlock Mysteries of Matter in the Densest Stars](https://scitechdaily.com/starquakes-unlock-mysteries-of-matter-in-the-densest-stars/)
 * [By studying neutron 'starquakes,' scientists hope to transform their understanding of nuclear matter](https://phys.org/news/2025-02-neutron-starquakes-scientists-nuclear.html)
 * [Dr. Christian Drischler receives 2024 NSF CAREER Award to advance research, educate students and community](https://www.ohio.edu/news/2024/09/dr-christian-drischler-receives-2024-nsf-career-award-advance-research-educate)
