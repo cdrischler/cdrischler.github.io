@@ -48,6 +48,7 @@ Athens, OH 45701-2979
 
 * Spring 2026: PHYSICS 2002: Introduction to Physics
 * Fall 2025: Computer Simulation Methods in Physics (PHYS 4071/5071)
+* Summer 2025: [Computational Physics Summer Tutorials (PHYS 6900)](https://github.com/cdrischler/compphysics-summer-tutorials)
 * Spring 2025: Research Seminar in Nuclear and Particle Physics and Journal Club (PHYS 8501)
 * Fall 2024: Computer Simulation Methods in Physics (PHYS 4071/5071)
 * Summer 2024: [Computational Physics Summer Tutorials (PHYS 6900)](https://github.com/cdrischler/compphysics-summer-tutorials)
