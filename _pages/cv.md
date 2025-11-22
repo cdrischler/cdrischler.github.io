@@ -46,13 +46,15 @@ Athens, OH 45701-2979
 
 ## Teaching
 
+* Spring 2026: PHYSICS 2002: Introduction to Physics
+* Fall 2024: Computer Simulation Methods in Physics (PHYS 4071/5071)
 * Spring 2025: Research Seminar in Nuclear and Particle Physics and Journal Club (PHYS 8501)
 * Fall 2024: Computer Simulation Methods in Physics (PHYS 4071/5071)
 * Summer 2024: [Computational Physics Summer Tutorials (PHYS 6900)](https://github.com/cdrischler/compphysics-summer-tutorials)
 * Fall 2023: Computer Simulation Methods in Physics (PHYS 4071/5071)
 * Summer 2023: [Computational Physics Summer Tutorials (PHYS 6900)](https://github.com/cdrischler/compphysics-summer-tutorials)
 
-The course **PHYS 4071/5071** provides a comprehensive introduction to numerical methods and computational tools to solve problems in physics using the `Python` programming language. Students are introduced to numerical methods and the process of approaching scientific problems from a computational point of view. Topics covered include:
+The course **PHYS 4071/5071** provides a comprehensive introduction to numerical methods and computational tools for solving physics problems using the `Python` programming language. Students are introduced to numerical methods and the process of approaching scientific problems computationally. Topics covered include:
 
 * numerical differentiation and integration methods,
 * numerical error analysis,
@@ -84,7 +86,7 @@ The complete list can be found on [inspirehep.net](https://inspirehep.net/author
 
 ## Talks
 
-The complete list can be found on the [Talks page](/talks/index.html).
+The complete list is available on the [Talks page](/talks/index.html).
 
 ## Thesis advisees
 
