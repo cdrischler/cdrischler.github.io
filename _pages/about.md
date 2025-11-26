@@ -32,11 +32,11 @@ I'm collaborating with:
 ## Research group at Ohio University
 
 My current research group consists of:
-* [Jane Kim](https://www.ohio.edu/cas/janekim) (postdoc)
 * [Yoon Gyu Lee](https://www.ohio.edu/cas/yl518521) (grad student)
 * [Abhinav Giri](https://www.ohio.edu/cas/ag086822) (grad student, STREAMLINE collaboration)
 
 Previous members:
+* [Jane Kim](https://www.ohio.edu/cas/janekim) (postdoc, 2024-2025, now at Argonne National Laboratory)
 * [Joshua Maldonado](https://www.ohio.edu/cas/jm998521) (grad student, M.S. thesis 2024, summer 2023 through summer 2024, STREAMLINE collaboration)
 * [Unish Gautam](https://www.ohio.edu/cas/ug783023) (grad student, summer 2024)
 * [Grace Eichler](https://www.linkedin.com/in/grace-eichler-b87a772b4) (undergrad HTC student, thesis 2025, summer 2024 through spring 2025)
