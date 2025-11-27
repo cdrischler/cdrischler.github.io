@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Christian Drischler. I'm an Assistant Professor of Physics and [FRIB](https://frib.msu.edu/) Bridge Faculty at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at [Ohio University](https://www.ohio.edu/). I'm also an elected member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/content/executive_board.php). 
+My name is Christian Drischler. I'm an **Assistant Professor of Physics** and [FRIB](https://frib.msu.edu/) Bridge Faculty at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at [Ohio University](https://www.ohio.edu/). I'm also an elected member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/content/executive_board.php). 
 
-My research is at the intersection of theoretical nuclear physics and nuclear astrophysics. I'm using microscopic methods to shed light on strongly interacting, dense matter in the universe.
+My research is at the intersection of **theoretical nuclear physics and nuclear astrophysics**. I'm using microscopic methods to shed light on strongly interacting, dense matter in the universe.
 
-My current research interests include:
+My current **research interests** include:
 * Neutron stars
 * Equation of state of neutron-rich matter
 * Chiral effective field theory
@@ -20,13 +20,13 @@ My current research interests include:
 * Emulators for nuclear physics and model (order) reduction
 * Computational physics
 
-I'm collaborating with:
+I'm **collaborating with**:
 * NSF-funded Physics Frontier Center _Network for Neutrinos, Nuclear Astrophysics, and Symmetries_ ([N3AS](https://n3as.berkeley.edu/))
 * _Bayesian Uncertainty Quantification: Errors in Your EFT_ ([BUQEYE](https://buqeye.github.io/)) collaboration,
 * NSF-funded _Bayesian Analysis of Nuclear Dynamics_ ([BAND](https://bandframework.github.io/)) Framework, and
 * DOE-funded _SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment_ (STREAMLINE) collaboration.
 
-> Don't hesitate to contact me if you are interested in a Research Fellowship of the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) (such as the [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship)) hosted by me at Ohio University.
+> Don't hesitate to contact me if you are interested in a Research Fellowship of the [**Alexander von Humboldt Foundation**](https://www.humboldt-foundation.de/en/) (such as the [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship)) hosted by me at Ohio University.
 
 
 ## Research group at Ohio University
@@ -35,7 +35,7 @@ My current research group consists of:
 * [Yoon Gyu Lee](https://www.ohio.edu/cas/yl518521) (grad student)
 * [Abhinav Giri](https://www.ohio.edu/cas/ag086822) (grad student, STREAMLINE collaboration)
 
-Previous members:
+Past group members:
 * [Jane Kim](https://www.ohio.edu/cas/janekim) (postdoc, 2024-2025, now at Argonne National Laboratory)
 * [Joshua Maldonado](https://www.ohio.edu/cas/jm998521) (grad student, M.S. thesis 2024, summer 2023 through summer 2024, STREAMLINE collaboration)
 * [Unish Gautam](https://www.ohio.edu/cas/ug783023) (grad student, summer 2024)
@@ -43,8 +43,8 @@ Previous members:
 
 ## Quick links
 
-* [Spring INPP Seminars](https://inpp.ohio.edu/~inpp/seminars.html)
-* [Spring INPP Nuclear Lunches](https://inpp.ohio.edu/~inpp/nuclear_lunch/nuclear_lunch.html)
+* [INPP Seminars](https://inpp.ohio.edu/~inpp/seminars.html)
+* [INPP Nuclear Lunches](https://inpp.ohio.edu/~inpp/nuclear_lunch/nuclear_lunch.html)
 * [Public Telescope Nights](https://www.ohio.edu/cas/physics-astronomy/research/facilities-labs/observatory/public-telescope-nights) at the Ohio University Observatory
 * [Ohio University Academic Calendar](https://www.ohio.edu/registrar/academic-calendar)
 * [Physics & Astronomy Colloquium Series](https://www.ohio.edu/cas/physics-astronomy/news-events/colloquium-series)
