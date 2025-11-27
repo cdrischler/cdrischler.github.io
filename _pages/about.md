@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Christian Drischler. I'm working at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at [Ohio University](https://www.ohio.edu/), where I"m an
+My name is Christian Drischler. I'm working at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at [Ohio University](https://www.ohio.edu/), where I'm an
 * **Assistant Professor of Physics**,
 * [FRIB](https://frib.msu.edu/) Theory Alliance Bridge Faculty, and 
 * elected member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/content/executive_board.php).
