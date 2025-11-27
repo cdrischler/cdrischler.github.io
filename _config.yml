@@ -31,7 +31,8 @@ author:
   email            : "drischler@ohio.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Drischler%2C+C" # URL - Update with the correct link to your profile
+  inspire          : "https://inspirehep.net/authors/1405840?ui-citation-summary=true"
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-1534-6285"
