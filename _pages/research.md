@@ -15,11 +15,11 @@ I have been developing Bayesian statistical methods and fast & accurate emulator
 
 I study strongly interacting, strongly correlated matter, ranging from atomic nuclei probed by laboratory experiments to neutron stars observed by multimessenger astronomy. Although the theory of strong interactions, **quantum chromodynamics (QCD)**, describes nuclear matter across all relevant density scales, no microscopic framework is currently available to predict the EOS and composition of the high-density matter in the cores of heavy neutron stars. 
 
-While a lot has recently been learned about dense matter through neutron star observation, heavy-ion collisions, and theory predictions, many key questions remain unanswered; for example:
+While a lot has recently been learned about dense matter through neutron star observation, heavy-ion collisions, and theory predictions, **many key questions remain unanswered**; for example:
 * What is the nature of matter at extreme temperatures and densities? 
 * How does subatomic matter organize itself, and what phenomena emerge?
   
-My research, funded by both DOE and NSF, aims to advance our microscopic understanding of the nuclear EOS, the structure and evolution of neutron stars, and the nucleosynthesis of heavy elements in the universe. 
+My research, funded by both DOE and NSF, aims to advance our **microscopic understanding** of the nuclear EOS, the structure and evolution of neutron stars, and the nucleosynthesis of heavy elements in the universe. 
 
 To this end, I leverage chiral EFT of low-energy QCD, many-body theory, and state-of-the-art computational methods to solve the **nuclear many-body problem** with quantified uncertainties. My original research has made significant contributions to nuclear physics and nuclear astrophysics. It has been recognized internationally through research fellowships, awards, and invitations to give plenary talks and write review articles.
 
@@ -29,8 +29,7 @@ My Monte Carlo framework for **diagrammatic nuclear matter calculations** overca
 
 These **EFT truncation errors** grow rapidly with baryon density, and rigorously quantifying them is critical for modeling neutron stars; previous EOS predictions only provided rough uncertainty estimates. My EOS calculations with quantified uncertainties have led to statistically robust predictions for neutron star structure that can be confronted with the wealth of experimental and observational EOS constraints anticipated in the multimessenger era, so advancing our understanding of dense matter.
 
-In the next few years, I aim to take full advantage of multimessenger astronomy, novel experimental campaigns, and advances in nuclear theory to constrain the nuclear EOS at zero and finite temperatures with unprecedented precision. This will shed light on **important questions in nuclear astrophysics**, such as:  
-
+In the next few years, I aim to take full advantage of **multimessenger astronomy**, novel experimental campaigns, and advances in nuclear theory to constrain the nuclear EOS at zero and finite temperatures with unprecedented precision. This will shed light on **important questions in nuclear astrophysics**, such as:  
 * Can we accurately predict neutron star properties from first principles? 
 * What are the (effective) degrees of freedom and QCD-based frameworks to be used? 
 * What key aspects of the nuclear forces drive the structure of neutron stars and atomic nuclei?
@@ -48,13 +47,11 @@ This research is naturally **collaborative**, and I'm grateful to my colleagues 
 * NSF-funded _Bayesian Analysis of Nuclear Dynamics_ ([BAND](https://bandframework.github.io/)) Framework, and
 * DOE-funded _SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment_ (STREAMLINE) collaboration.
 
-Interested in EOS physics and fast and accurate emulators for nuclear physics? 
+**Interested in EOS physics and fast and accurate emulators for nuclear physics?** 
 
 If so, please feel free to reach out to me. I'm always happy to discuss this research with anyone interested. In the meantime, let me draw your attention to the following pedagogical review articles for **further reading**:
 
 * Drischler, C., Holt, J. W., and Wellenhofer, C. (2021): Chiral Effective Field Theory and the High-Density Nuclear Equation of State. [Annu. Rev. Nucl. Part. Sci. **71**, 403](https://doi.org/10.1146/annurev-nucl-102419-041903).
 * Drischler, C., Melendez, J. A., Furnstahl, R. J., Garcia, A. J., and Zhang, Xilin (2022): BUQEYE Guide to Projection-Based Emulators in Nuclear Physics. [Front. Phys. **10**, 92931](https://doi.org/10.3389/fphy.2022.1092931) ([source code]([https://github.com/cdrischler/nuclear_saturation](https://github.com/buqeye/frontiers-emulator-review))).
 
-I recently gave the recorded [Science Café](https://www.ohio.edu/sciencecafe) titled [The Strong Force Awakens: A Neutron Star Story](https://www.youtube.com/watch?v=0BK1xyjJ0UQ), which covered many of the mentioned subjects in a generally accessible way. 
-
-<!-- ![image](../images/500x300.png): style="float: right; padding-left: 12px; padding-bottom: 12px; padding-top: 10px"} -->
+I recently gave the recorded [**Science Café**](https://www.ohio.edu/sciencecafe) titled [The Strong Force Awakens: A Neutron Star Story](https://www.youtube.com/watch?v=0BK1xyjJ0UQ), which covered many of the mentioned subjects in a generally accessible way.
