@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-My name is Christian Drischler. I'm working at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at [Ohio University](https://www.ohio.edu/), where I'm an
-* **Assistant Professor of Physics**,
-* [FRIB](https://frib.msu.edu/) Theory Alliance Bridge Faculty, and 
-* elected member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/content/executive_board.php).
+My name is Christian Drischler. I'm working at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at [Ohio University](https://www.ohio.edu/), where I'm 
+* an **Assistant Professor of Physics**,
+* [FRIB](https://frib.msu.edu/) Theory Alliance Bridge Faculty, 
+* elected member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/content/executive_board.php), and
+* the faculty advisor of the graduate student organization [PandA GradS](https://www.ohio.edu/cas/physics-astronomy/graduate#panda-grads).
 
 My research is at the intersection of **theoretical nuclear physics and nuclear astrophysics**. I'm using microscopic methods to shed light on strongly interacting, dense matter in the universe.
 
 My current **research interests** include:
-* Neutron stars
-* Equation of state of neutron-rich matter
+* Neutron stars and equation of state of neutron-rich matter
 * Chiral effective field theory
 * Many-body perturbation theory
 * Bayesian methods for uncertainty quantification
@@ -34,7 +34,7 @@ I'm **collaborating with**:
 
 ## Research group at Ohio University
 
-My current research group consists of:
+My **current research group** consists of:
 * [Yoon Gyu Lee](https://www.ohio.edu/cas/yl518521) (grad student)
 * [Abhinav Giri](https://www.ohio.edu/cas/ag086822) (grad student, STREAMLINE collaboration)
 
@@ -46,11 +46,11 @@ Past group members:
 
 ## Quick links
 
+* [Public Telescope Nights](https://www.ohio.edu/cas/physics-astronomy/research/facilities-labs/observatory/public-telescope-nights) at the Ohio University Observatory
 * [INPP Seminars](https://inpp.ohio.edu/~inpp/seminars.html)
 * [INPP Nuclear Lunches](https://inpp.ohio.edu/~inpp/nuclear_lunch/nuclear_lunch.html)
-* [Public Telescope Nights](https://www.ohio.edu/cas/physics-astronomy/research/facilities-labs/observatory/public-telescope-nights) at the Ohio University Observatory
-* [Ohio University Academic Calendar](https://www.ohio.edu/registrar/academic-calendar)
 * [Physics & Astronomy Colloquium Series](https://www.ohio.edu/cas/physics-astronomy/news-events/colloquium-series)
+* [Ohio University Academic Calendar](https://www.ohio.edu/registrar/academic-calendar)
 
 ## In the news
 
