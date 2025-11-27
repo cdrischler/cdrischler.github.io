@@ -10,7 +10,8 @@ redirect_from:
 My name is Christian Drischler. I'm an
 * **Assistant Professor of Physics**,
 * [FRIB](https://frib.msu.edu/) Theory Alliance Bridge Faculty, and 
-* elected member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/content/executive_board.php), 
+* elected member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/content/executive_board.php),
+
 working at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at [Ohio University](https://www.ohio.edu/).
 
 My research is at the intersection of **theoretical nuclear physics and nuclear astrophysics**. I'm using microscopic methods to shed light on strongly interacting, dense matter in the universe.
