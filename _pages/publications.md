@@ -18,8 +18,8 @@ Below is a selection of my scientific publications. The complete list can be fou
 
 ## Selected recent papers
 
-* Gnech, A., Zhang, X., Drischler, C., Furnstahl, R. J., Grassi, A., Kievsky, A., Marcucci, L.E., and Viviani, M. (2025): Emulation of Proton-Deuteron Scattering via the Reduced Basis Method and Active Learning: Detailed Description, [arXiv:2511.10420](https://arxiv.org/abs/2511.10420).
-* Gnech, A., Zhang, X., Drischler, C., Furnstahl, R. J., Grassi, A., Kievsky, A., Marcucci, L.E., and Viviani, M. (2025): Accurate and Efficient Emulation of Proton-Deuteron Scattering via the Reduced Basis Method and Active Learning, [arXiv:2511.01844](https://arxiv.org/abs/2511.01844).
+* Gnech, A., Zhang, X., Drischler, C., Furnstahl, R. J., Grassi, A., Kievsky, A., Marcucci, L.E., and Viviani, M. (2025): Emulation of Proton-Deuteron Scattering via the Reduced Basis Method and Active Learning: Detailed Description, [arXiv:2511.10420](https://arxiv.org/abs/2511.10420) (companion paper: [arXiv:2511.01844](https://arxiv.org/abs/2511.01844)).
+* Giri, A., Kim, J., Drischler, C., Elster, Ch., and Furnstahl, R. J. (2025): Active learning emulators for nuclear two-body scattering in momentum space, [arXiv:2512.17842](https://arxiv.org/abs/2512.17842).
 * Semposki, A. C., Drischler, C., Furnstahl, R. J., and Phillips, D. R. (2025): Microscopic constraints for the equation of state and structure of neutron stars: a Bayesian model mixing framework, [arXiv:2505.18921](https://arxiv.org/abs/2505.18921).
 * Maldonado, J. M., Drischler, C., Furnstahl, R. J., and Mlinarić, P. (2025): Greedy Emulators for Nuclear Two-Body Scattering, [Phys. Rev. C **112**, 024002](https://journals.aps.org/prc/abstract/10.1103/k77q-f82l) ([source code](https://github.com/buqeye/cs_greedy_emulator)).
 * Neill, D., Tsang, D., Drischler, C., Holt, J. W., and Newton, W. G. (2025): Resonant shattering flares as asteroseismic tests of chiral effective field theory, [Phys. Rev. C **111**, 015809](https://doi.org/10.1103/PhysRevC.111.015809).
