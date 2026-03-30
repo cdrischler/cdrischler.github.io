@@ -18,11 +18,11 @@ Below is a selection of my scientific publications. The complete list can be fou
 
 ## Selected recent papers
 
+* Drischler, C., McElvain, K.S., and Arthuis, P. (2026): Many-body perturbation theory for the nuclear equation of state up to fifth order, [arXiv:2603.24532](https://arxiv.org/abs/2603.24532).
 * Gnech, A., Zhang, X., Drischler, C., Furnstahl, R. J., Grassi, A., Kievsky, A., Marcucci, L.E., and Viviani, M. (2025): Emulation of Proton-Deuteron Scattering via the Reduced Basis Method and Active Learning: Detailed Description, [arXiv:2511.10420](https://arxiv.org/abs/2511.10420) (companion paper: [arXiv:2511.01844](https://arxiv.org/abs/2511.01844)).
-* Giri, A., Kim, J., Drischler, C., Elster, Ch., and Furnstahl, R. J. (2025): Active learning emulators for nuclear two-body scattering in momentum space, [arXiv:2512.17842](https://arxiv.org/abs/2512.17842).
-* Semposki, A. C., Drischler, C., Furnstahl, R. J., and Phillips, D. R. (2025): Microscopic constraints for the equation of state and structure of neutron stars: a Bayesian model mixing framework, [arXiv:2505.18921](https://arxiv.org/abs/2505.18921).
+* Giri, A., Kim, J., Drischler, C., Elster, Ch., and Furnstahl, R. J. (2025): Active learning emulators for nuclear two-body scattering in momentum space, Phys. Rev. C. in press, [arXiv:2512.17842](https://arxiv.org/abs/2512.17842).
+* Semposki, A. C., Drischler, C., Furnstahl, R. J., and Phillips, D. R. (2025): Microscopic constraints for the equation of state and structure of neutron stars: a Bayesian model mixing framework, [Phys. Rev. C **113**, 015808](https://doi.org/10.1103/fxv6-gdnw)
 * Maldonado, J. M., Drischler, C., Furnstahl, R. J., and Mlinarić, P. (2025): Greedy Emulators for Nuclear Two-Body Scattering, [Phys. Rev. C **112**, 024002](https://journals.aps.org/prc/abstract/10.1103/k77q-f82l) ([source code](https://github.com/buqeye/cs_greedy_emulator)).
-* Neill, D., Tsang, D., Drischler, C., Holt, J. W., and Newton, W. G. (2025): Resonant shattering flares as asteroseismic tests of chiral effective field theory, [Phys. Rev. C **111**, 015809](https://doi.org/10.1103/PhysRevC.111.015809).
 * Kumamoto, M., Huang, J., Drischler, C., Baryakhtar, M., and Reddy, S. (2025): Pi in the Sky: Neutron Stars with Exceptionally Light QCD Axions, [Phys. Rev. D **112**, 043008 ](https://journals.aps.org/prd/abstract/10.1103/5zgm-z4v9).
 
 
