@@ -11,6 +11,12 @@ Below is the list of seminar and colloquium talks I have given since 2018. The l
 
 <iframe src="map.html" height="500px" width="100%" style="border:none;"></iframe>
 
+## 2026 
+
+* Fast and accurate emulators for nuclear scattering, May 22, invited talk, 2026 STREAMLINE2  Symposium (organized by Lee), Facility for Rare Isotope Beams (FRIB), East Lansing, MI, USA
+* Fast and accurate emulators for scattering and nuclear matter, invited talk, Nuclear Hamiltonians for Advancing Nuclear Physics and Beyond
+(INT-26-1; organized by Davoudi, Ekström Holt, Sobzcyk, and Tews), Institute for Nuclear Theory, Seattle, WA, USA
+
 ## 2025
 
 * [The Strong Force Awakens: A Neutron Star Story](https://www.youtube.com/watch?v=0BK1xyjJ0UQ), November 12, invited [Science Café](https://www.ohio.edu/sciencecafe), Ohio University, Athens, OH, USA 
