@@ -16,7 +16,7 @@ My name is Christian Drischler. I'm working at the [Institute of Nuclear and Par
 My research is at the intersection of **theoretical nuclear physics and nuclear astrophysics**. I'm using microscopic methods to shed light on strongly interacting, dense matter in the universe.
 
 My current **research interests** include:
-* Neutron stars and equation of state of neutron-rich matter
+* Neutron stars and the equation of state of neutron-rich matter
 * Chiral effective field theory
 * Many-body perturbation theory
 * Bayesian methods for uncertainty quantification
@@ -36,7 +36,9 @@ I'm **collaborating with**:
 
 My **current research group** consists of:
 * [Yoon Gyu Lee](https://www.ohio.edu/cas/yl518521) (grad student)
-* [Abhinav Giri](https://www.ohio.edu/cas/ag086822) (grad student, STREAMLINE collaboration)
+* [Abhinav Giri](https://www.ohio.edu/cas/ag086822) (grad student, STREAMLINE2 collaboration)
+* Luigi Spreafico (grad student)
+* Camden Kilton (undergrad student)
 
 Past group members:
 * [Jane Kim](https://www.ohio.edu/cas/janekim) (postdoc, 2024-2025, now at Argonne National Laboratory)
