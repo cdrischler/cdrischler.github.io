@@ -9,18 +9,18 @@ redirect_from:
 
 Below is a selection of my scientific publications. The complete list can be found on [inspirehep.net](https://inspirehep.net/authors/1405840?ui-citation-summary=true).
 
+## Publications with my students and postdocs
+
+* **Lee, Y. G.**, **Kim, J.**, Zhao, T., and Drischler, C. (2026): A Gaussian Process framework for constraining the nuclear equation of state from microscopic calculations with correlated uncertainties, [arXiv:2608.09678](https://arxiv.org/abs/2608.09678).
+* **Giri, A.**, **Kim, J.**, Drischler, C., Elster, Ch., and Furnstahl, R. J. (2025): Active learning emulators for nuclear two-body scattering in momentum space, [Phys. Rev. C **113**, 044001](https://doi.org/10.1103/s6my-pqs9), [arXiv:2512.17842](https://arxiv.org/abs/2512.17842).
+* **Maldonado, J. M.**, Drischler, C., Furnstahl, R. J., and Mlinarić, P. (2025): Greedy Emulators for Nuclear Two-Body Scattering, [Phys. Rev. C **112**, 024002](https://journals.aps.org/prc/abstract/10.1103/k77q-f82l), [arXiv:2504.06092](https://arxiv.org/abs/2504.06092) ([source code](https://github.com/buqeye/cs_greedy_emulator)).
+
 ## Selected recent papers
 
 * Cook, P., Yu, K., Drischler, C., and Bogner, S.K. (2026): PMM-IMSRG emulator for the nuclear equation of state with quantified uncertainties, [arXiv:2607.19773](https://arxiv.org/abs/2607.19773).
 * Drischler, C., McElvain, K.S., and Arthuis, P. (2026): Many-body perturbation theory for the nuclear equation of state up to fifth order, [arXiv:2603.24532](https://arxiv.org/abs/2603.24532).
 * Gnech, A., Zhang, X., Drischler, C., Furnstahl, R. J., Grassi, A., Kievsky, A., Marcucci, L.E., and Viviani, M. (2025): Emulation of Proton-Deuteron Scattering via the Reduced Basis Method and Active Learning: Detailed Description, [arXiv:2511.10420](https://arxiv.org/abs/2511.10420) (companion paper: [arXiv:2511.01844](https://arxiv.org/abs/2511.01844)).
 * Semposki, A. C., Drischler, C., Furnstahl, R. J., and Phillips, D. R. (2025): Microscopic constraints for the equation of state and structure of neutron stars: a Bayesian model mixing framework, [Phys. Rev. C **113**, 015808](https://doi.org/10.1103/fxv6-gdnw).
-
-## Publications with my students and postdocs
-
-* **Lee, Y. G.**, **Kim, J.**, Zhao, T., and Drischler, C. (2026): A Gaussian Process framework for constraining the nuclear equation of state from microscopic calculations with correlated uncertainties, [arXiv:2608.09678](https://arxiv.org/abs/2608.09678).
-* **Giri, A.**, **Kim, J.**, Drischler, C., Elster, Ch., and Furnstahl, R. J. (2025): Active learning emulators for nuclear two-body scattering in momentum space, [Phys. Rev. C **113**, 044001](https://doi.org/10.1103/s6my-pqs9), [arXiv:2512.17842](https://arxiv.org/abs/2512.17842).
-* **Maldonado, J. M.**, Drischler, C., Furnstahl, R. J., and Mlinarić, P. (2025): Greedy Emulators for Nuclear Two-Body Scattering, [Phys. Rev. C **112**, 024002](https://journals.aps.org/prc/abstract/10.1103/k77q-f82l) ([source code](https://github.com/buqeye/cs_greedy_emulator)).
 
 ## Selected publications
 
