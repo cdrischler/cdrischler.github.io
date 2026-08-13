@@ -13,9 +13,9 @@ Below is the list of seminar and colloquium talks I have given since 2018. The l
 
 ## 2026 
 
-* Fast and accurate emulators for nuclear scattering, May 22, invited talk, 2026 STREAMLINE2  Symposium (organized by Lee), Facility for Rare Isotope Beams (FRIB), East Lansing, MI, USA
-* Fast and accurate emulators for scattering and nuclear matter, May 12, invited talk, Nuclear Hamiltonians for Advancing Nuclear Physics and Beyond
-(INT-26-1; organized by Davoudi, Ekström Holt, Sobzcyk, and Tews), Institute for Nuclear Theory, Seattle, WA, USA
+* Many-Body Calculations and Emulation of the Nuclear Equation of State, August 13, 2026 Low-Energy Community Meeting (LECM), Argonne National Laboratory, Lemont, IL, USA.
+* Fast and accurate emulators for nuclear scattering, May 22, contributing talk, 2026 STREAMLINE2 Symposium (organized by Lee), Facility for Rare Isotope Beams (FRIB), East Lansing, MI, USA
+* Fast and accurate emulators for scattering and nuclear matter, May 12, invited talk, Nuclear Hamiltonians for Advancing Nuclear Physics and Beyond (INT-26-1; organized by Davoudi, Ekström, Holt, Sobzcyk, and Tews), Institute for Nuclear Theory, Seattle, WA, USA
 
 ## 2025
 
