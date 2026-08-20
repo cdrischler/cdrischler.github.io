@@ -9,8 +9,9 @@ redirect_from:
 
 My name is Christian Drischler. I'm working at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at [Ohio University](https://www.ohio.edu/), where I'm 
 * an **Assistant Professor of Physics**,
-* [FRIB](https://frib.msu.edu/) Theory Alliance Bridge Faculty, 
-* elected member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/content/executive_board.php), and
+* an [FRIB](https://frib.msu.edu/) Theory Alliance Bridge Faculty, 
+* an elected member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/content/executive_board.php),
+* a senior investigator of the Physics Frontier Center [N3AS](https://n3as.berkeley.edu/), and
 * the faculty advisor of the graduate student organization [PandA GradS](https://www.ohio.edu/cas/physics-astronomy/graduate#panda-grads).
 
 My research is at the intersection of **theoretical nuclear physics and nuclear astrophysics**. I'm using microscopic methods to shed light on strongly interacting, dense matter in the universe.
