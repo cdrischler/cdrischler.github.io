@@ -54,13 +54,21 @@ Additional information is available on the [Teaching page](/teaching/).
 
 ## Service
 
-* Elected member, Executive Board of the FRIB Theory Alliance, 2024–2027
-* Co-host, [Public Telescope Nights](https://www.ohio.edu/cas/physics-astronomy/research/facilities-labs/observatory/public-telescope-nights), Ohio University Observatory, 2022–present
-* Faculty Advisor, "Physics and Astronomy Graduate Students" student organization ([PandA GradS](https://www.ohio.edu/cas/physics-astronomy/student-organizations#graduate-students)), Ohio University, 2022–present
-* Various committee service, Ohio University, 2022–present
-* Referee for scientific journals, including Phys. Rev. C, Phys. Rev. Lett., and Phys. Lett. B, 2018–present
-* Additional committee and review service (details available upon request)
+**FRIB Theory Alliance:**
+* Executive Board member (elected), 2024–present
+* Education and Topical Programs Committee (chair), 2026–present
+* Webpage Committee, 2024–present (chair since 2026)
 
+**Ohio University:**
+* U.S. Department of Physics & Astronomy Colloquium Committee member, 2026–present
+* Undergraduate Assessment Committee member, 2025-present
+* N3AS Faculty Mentor, 2025-present
+* Astronomy Outreach Committee member, 2022–present
+* Faculty advisor of the "Physics and Astronomy Graduate Students" ([PandA GradS](https://www.ohio.edu/cas/physics-astronomy/student-organizations#graduate-students)) student organization, 2022–present
+
+**Referee:**     
+Phys. Rev. Lett., Phys. Rev. C, Nucl. Phys. A, Phys. Lett. B, Mod. Phys. Lett. A, Comput. Phys. Commun., Int. J. Mod. Phys. E, J. Phys. G: Nucl. Part. Phys., and Astrophys. J. Lett., 2018–present
+  
 ## Professional societies
 
 * FRIB Theory Alliance, 2021–present
@@ -70,10 +78,10 @@ Additional information is available on the [Teaching page](/teaching/).
 
 ## Funding
 
-* Department of Energy, STREAMLINE2 Collaboration: Machine Learning for Nuclear Many-Body Systems (DE-SC0026198), 2025–2027
-* National Science Foundation, CAREER: Nuclear Matter from Chiral Effective Field Theory in the FRIB & Multimessenger Era ([2339043](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339043&HistoricalAwards=false)), 2024–2029
-* Department of Energy, STREAMLINE Collaboration: Machine Learning for Nuclear Many-Body Systems ([DE-SC0024233](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=66cb84af-5b64-41f7-a2a8-47c38f44ef3f&rtc=24&PRoleId=10)), 2023–2025
-* Ohio University, startup funding, 2022–2026
+* U.S. Department of Energy, STREAMLINE2 Collaboration: Machine Learning for Nuclear Many-Body Systems (DE-SC0026198), 2025–present
+* National Science Foundation, CAREER: Nuclear Matter from Chiral Effective Field Theory in the FRIB & Multimessenger Era ([2339043](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339043&HistoricalAwards=false)), 2024–present
+* U.S. Department of Energy, STREAMLINE Collaboration: Machine Learning for Nuclear Many-Body Systems ([DE-SC0024233](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=66cb84af-5b64-41f7-a2a8-47c38f44ef3f&rtc=24&PRoleId=10)), 2023–2025
+* Ohio University, startup funding, 2022–present
 
 ## Students
 
@@ -82,12 +90,12 @@ Additional information is available on the [Teaching page](/teaching/).
 * Undergraduate student: Camden Kilton
   
 **Former students:**  
-* Joshua Maldonado, graduate student (summer 2023–summer 2024). Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556)
+* Joshua Maldonado, graduate student (summer 2023-summer 2024). Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556)
 * Grace Eichler, undergraduate student (summer 2024–spring 2025). HTC thesis: [Sensitivity of the Neutron Star Structure on the Low-Density Equation of State Parameters](http://rave.ohiolink.edu/etdc/view?acc_num=ouhonors1745511553163446)
 
 ## Workshops and conferences
 
-* Convener, "Nuclear Structure for Neutrinos and Astrophysics: Nuclear Matrix Elements for Neutrino and Dark Matter Interactions; Reaction Rates; Equation of State," 15th Conference on the Intersections of Particle and Nuclear Physics (CIPANP 2025), University of Wisconsin (co-conveners: Ingo Tews, Anna McCoy), June 9–13, 2025
+* Convener, "Nuclear Structure for Neutrinos and Astrophysics: Nuclear Matrix Elements for Neutrino and Dark Matter Interactions; Reaction Rates; Equation of State," 15th Conference on the Intersections of Particle and Nuclear Physics ([CIPANP 2025](https://agenda.hep.wisc.edu/event/2257/)), University of Wisconsin (co-conveners: Ingo Tews, Anna McCoy), June 9–13, 2025
 * Organizer, 2024 MITP program [Uncertainty Quantification in Nuclear Physics](https://indico.mitp.uni-mainz.de/event/356/), Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg University Mainz (co-organizers: Weiguang Jiang, Takayuki Miyagi, Joanna Sobczyk), June 24–28, 2024
 
 ## Publications
