@@ -55,14 +55,14 @@ Additional information is available on the [Teaching page](/teaching/).
 ## Service
 
 **FRIB Theory Alliance:**
-* Executive Board member (elected), 2024–present
 * Education and Topical Programs Committee (chair), 2026–present
 * Webpage Committee, 2024–present (chair since 2026)
+* Executive Board member (elected), 2024–present
 
 **Ohio University:**
-* U.S. Department of Physics & Astronomy Colloquium Committee member, 2026–present
-* Undergraduate Assessment Committee member, 2025-present
-* N3AS Faculty Mentor, 2025-present
+* Department of Physics & Astronomy Colloquium Committee member, 2026–present
+* Undergraduate Assessment Committee member, 2025–present
+* N3AS Faculty Mentor, 2025–present
 * Astronomy Outreach Committee member, 2022–present
 * Faculty advisor of the "Physics and Astronomy Graduate Students" ([PandA GradS](https://www.ohio.edu/cas/physics-astronomy/student-organizations#graduate-students)) student organization, 2022–present
 
