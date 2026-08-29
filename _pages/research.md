@@ -7,13 +7,17 @@ redirect_from:
   - /research
 ---
 
-I'm a theoretical physicist working at the **intersection of nuclear physics and nuclear astrophysics**. 
+I'm a theoretical physicist working at the **intersection of nuclear physics and nuclear astrophysics**. My research aims to understand strongly interacting matter across 18 orders of magnitude, from atomic nuclei studied in laboratory experiments to neutron stars observed through multimessenger astronomy.
 
-My research interests include applications of chiral effective field theory (EFT) and many-body theory to derive **microscopic constraints on the nuclear matter equation of state (EOS)** and the structure of neutron stars. 
+## Research Themes
 
-I have been developing Bayesian statistical methods and fast & accurate emulators to facilitate **rigorous uncertainty quantification** and statistically robust comparisons between nuclear theory, observational, and experimental constraints on the EOS obtained in the FRIB and multimessenger era.
+My research program is organized around three interconnected themes:
 
-I study strongly interacting, strongly correlated matter, ranging from atomic nuclei probed by laboratory experiments to neutron stars observed by multimessenger astronomy. Although the theory of strong interactions, **quantum chromodynamics (QCD)**, describes nuclear matter across all relevant density scales, no microscopic framework is currently available to predict the EOS and composition of the high-density matter in the cores of heavy neutron stars. 
+1. **Nuclear Matter and Neutron Stars:** I derive microscopic constraints on the nuclear matter equation of state (EOS) and investigate their implications for the structure and evolution of neutron stars.
+2. **Chiral Effective Field Theory and Many-Body Methods:** I apply chiral effective field theory (EFT) and advanced many-body methods to connect the symmetries of quantum chromodynamics with the properties of nuclei and nuclear matter.
+3. **Bayesian Uncertainty Quantification and Fast Emulators:** I develop Bayesian statistical methods and fast, accurate emulators to quantify theoretical uncertainties and enable robust comparisons among nuclear theory, laboratory experiments, and multimessenger observations.
+
+Although the theory of strong interactions, **quantum chromodynamics (QCD)**, describes nuclear matter across all relevant density scales, no microscopic framework is currently available to predict the EOS and composition of the high-density matter in the cores of heavy neutron stars. 
 
 While a lot has recently been learned about dense matter through neutron star observation, heavy-ion collisions, and theory predictions, **many key questions remain unanswered**; for example:
 * What is the nature of matter at extreme temperatures and densities?
