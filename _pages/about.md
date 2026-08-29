@@ -1,47 +1,36 @@
 ---
 permalink: /
-title: "Hello there!"
+title: "Theoretical nuclear physics: from microscopic interactions to neutron stars"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 Hello, I'm Christian Drischler. I'm an **Assistant Professor of Physics** at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at [Ohio University](https://www.ohio.edu/), where I'm also:
 * an [FRIB](https://frib.msu.edu/) Theory Alliance Bridge Faculty,
 * an elected member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/content/executive_board.php),
 * a senior investigator of the Physics Frontier Center [N3AS](https://n3as.berkeley.edu/), and
 * the faculty advisor of the graduate student organization [PandA GradS](https://www.ohio.edu/cas/physics-astronomy/graduate#panda-grads).
 
-My research is at the intersection of **theoretical nuclear physics and nuclear astrophysics**. I use microscopic methods to understand strongly interacting matter, ranging from atomic nuclei to the dense matter inside neutron stars. My research has been recognized with a 2024 NSF CAREER Award.
-
-Learn more about my [research](/research/), [publications](/publications/), [talks](/talks/), and [teaching](/teaching/).
-
-My current **research interests** include:
-* Neutron stars and the equation of state of neutron-rich matter
-* Chiral effective field theory and many-body methods
-* Bayesian uncertainty quantification and fast emulators
-* Computational physics
-
-I collaborate with several DOE- and NSF-funded initiatives, including the Physics Frontier Center [N3AS](https://n3as.berkeley.edu/), the [BUQEYE](https://buqeye.github.io/) collaboration, the [BAND](https://bandframework.github.io/) Framework, and the STREAMLINE Collaboration — see [Research](/research/#collaborations) for details.
+Working at the intersection of theoretical nuclear physics and nuclear astrophysics, my group develops microscopic methods to study matter under extreme conditions and connect nuclear interactions to laboratory experiments and astrophysical observations of neutron stars. Our research program is built on three interconnected themes: **nuclear matter and neutron stars**, **chiral effective field theory and many-body methods**, and **Bayesian uncertainty quantification and fast emulators**. This work has been recognized with a 2024 NSF CAREER Award. Learn more about my [research](/research/), [publications](/publications/), [talks](/talks/), and [teaching](/teaching/).
 
 ## Research group at Ohio University
 
 My **current research group** consists of:
-* Yoon Gyu Lee (grad student)
-* Abhinav Giri (grad student, STREAMLINE2 Collaboration)
-* Luigi Spreafico (grad student)
-* Camden Kilton (undergrad student)
+* Camden Kilton, undergraduate student, 2026–present
+* Luigi Spreafico, graduate student, 2026–present
+* Abhinav Giri, graduate student, 2025–present
+* Yoon Gyu Lee, graduate student, 2023–present
 
-If you're a prospective student or postdoc interested in this research, feel free to reach out.
+My group welcomes inquiries from prospective students and postdocs.
 
-> Don't hesitate to contact me if you are interested in a Research Fellowship of the [**Alexander von Humboldt Foundation**](https://www.humboldt-foundation.de/en/) (such as the [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship)) hosted by me at Ohio University.
+> Interested in a Research Fellowship of the [**Alexander von Humboldt Foundation**](https://www.humboldt-foundation.de/en/) (such as the [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship))? I'm happy to serve as your host at Ohio University. Please don't hesitate to reach out.
 
-**Past group members:**
-* Jane Kim, postdoctoral researcher, 2024–2025, now at Argonne National Laboratory
-* Joshua Maldonado, grad student, M.S. thesis 2024, summer 2023–summer 2024
-* Unish Gautam, summer graduate student, summer 2024
+### Past group members
 * Grace Eichler, undergraduate student, HTC thesis 2025, summer 2024–spring 2025
+* Jane Kim, postdoctoral researcher, 2024–2025, now at Argonne National Laboratory
+* Unish Gautam, summer graduate student, summer 2024
+* Joshua Maldonado, graduate student, M.S. thesis 2024, summer 2023–summer 2024
 
 ## In the news
 
