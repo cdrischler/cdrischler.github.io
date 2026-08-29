@@ -23,9 +23,8 @@ Athens, OH 45701-2979
 ## Academic positions
 
 * Assistant Professor and FRIB Theory Alliance Bridge Faculty, Ohio University, 2022–present
-* Adjunct Assistant Professor, Facility for Rare Isotope Beams (FRIB), Michigan State University (MSU), 2022–present
-* FRIB Theory Fellow (Visiting Assistant Professor), FRIB, Michigan State University, 2020–2022
-* Feodor-Lynen Fellow of the Alexander von Humboldt Foundation ("Humboldt Fellow"), University of California, Berkeley, and Lawrence Berkeley National Laboratory, 2019–2020
+* FRIB Theory Fellow and Visiting Assistant Professor, Facility for Rare Isotope Beams, Michigan State University, 2020–2022
+* Feodor Lynen Research Fellow, University of California, Berkeley, and Lawrence Berkeley National Laboratory, 2019–2020
 * Postdoctoral Researcher, University of California, Berkeley, and Lawrence Berkeley National Laboratory, 2017–2019
 
 ## Education
@@ -46,12 +45,12 @@ Athens, OH 45701-2979
 
 ## Teaching
 
-* PHYS 2002: Introduction to Physics (with lab) — Spring 2026, Fall 2026
-* PHYS 4071/5071: Computer Simulation Methods in Physics — Fall 2023, Fall 2024, Fall 2025
-* PHYS 6900: [Computational Physics Summer Tutorials](https://github.com/cdrischler/compphysics-summer-tutorials) — Summer 2023, Summer 2024, Summer 2025
-* PHYS 8501: Research Seminar in Nuclear and Particle Physics and Journal Club — Spring 2023, Spring 2025
+* PHYS 2002: Introduction to Physics (spring 2026, fall 2026)
+* PHYS 4071/5071: Computer Simulation Methods in Physics (fall 2023, fall 2024, fall 2025)
+* PHYS 6900: [Computational Physics Summer Tutorials](https://github.com/cdrischler/compphysics-summer-tutorials) (summer 2023, summer 2024, summer 2025)
+* PHYS 8501: Research Seminar in Nuclear and Particle Physics and Journal Club (spring 2023, spring 2025)
 
-Course descriptions are available on the [Teaching page](/teaching/).
+Additional information is available on the [Teaching page](/teaching/).
 
 ## Service
 
@@ -62,12 +61,12 @@ Course descriptions are available on the [Teaching page](/teaching/).
 * Referee for scientific journals, including Phys. Rev. C, Phys. Rev. Lett., and Phys. Lett. B, 2018–present
 * Additional committee and review service (details available upon request)
 
-# Professional societies
+## Professional societies
 
-* German Physical Society, 2009–present.
-* Alexander von Humboldt Network, 2019–present.
-* American Physical Society, 2018–present.
-* FRIB Theory Alliance, 2021–present.
+* FRIB Theory Alliance, 2021–present
+* Alexander von Humboldt Network, 2019–present
+* American Physical Society, 2018–present
+* German Physical Society, 2009–present
 
 ## Funding
 
@@ -78,13 +77,13 @@ Course descriptions are available on the [Teaching page](/teaching/).
 
 ## Students
 
-### Current students
+**Current students:**  
 * **Graduate students:** Abhinav Giri, Yoon Gyu Lee, and Luigi Spreafico
 * **Undergraduate student:** Camden Kilton
   
-### Former students
-* Joshua Maldonado, graduate student (summer 2023–summer 2024). Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556).
-* Grace Eichler, undergraduate student (summer 2024–spring 2025). HTC thesis: [Sensitivity of the Neutron Star Structure on the Low-Density Equation of State Parameters](http://rave.ohiolink.edu/etdc/view?acc_num=ouhonors1745511553163446).
+**Former students:**  
+* Joshua Maldonado, graduate student (summer 2023–summer 2024). Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556)
+* Grace Eichler, undergraduate student (summer 2024–spring 2025). HTC thesis: [Sensitivity of the Neutron Star Structure on the Low-Density Equation of State Parameters](http://rave.ohiolink.edu/etdc/view?acc_num=ouhonors1745511553163446)
 
 ## Workshops and conferences
 
@@ -93,7 +92,8 @@ Course descriptions are available on the [Teaching page](/teaching/).
 
 ## Publications
 
-The complete list and a citation summary are on my [INSPIRE-HEP](https://inspirehep.net/authors/1405840?ui-citation-summary=true) profile. For a selection of my scientific publications, see the [Publications page](/publications/index.html).
+The complete list and a citation summary are on my [INSPIRE-HEP](https://inspirehep.net/authors/1405840?ui-citation-summary=true) profile.    
+For a selection of my scientific publications, see the [Publications page](/publications/index.html).
 
 ## Talks
 
