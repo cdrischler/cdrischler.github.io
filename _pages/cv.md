@@ -34,7 +34,7 @@ Athens, OH 45701-2979
 * M.Sc., Physics, Technical University Darmstadt, Germany, 2014
 * B.Sc., Physics, Technical University Darmstadt, Germany, 2012
 
-## Awards and honors
+## Fellowships and awards
 
 * National Science Foundation (NSF) CAREER Award, 2024–present
 * Inaugural FRIB Early Achievement Award (Theory), Facility for Rare Isotope Beams, Michigan State University, 2021
@@ -62,27 +62,43 @@ Course descriptions are available on the [Teaching page](/teaching/).
 * Referee for scientific journals, including Phys. Rev. C, Phys. Rev. Lett., and Phys. Lett. B, 2018–present
 * Additional committee and review service (details available upon request)
 
-## Workshops and conferences
+# Professional societies
 
-* Convener, "Nuclear Structure for Neutrinos and Astrophysics: Nuclear Matrix Elements for Neutrino and Dark Matter Interactions; Reaction Rates; Equation of State," 15th Conference on the Intersections of Particle and Nuclear Physics (CIPANP 2025), University of Wisconsin (co-conveners: Ingo Tews, Anna McCoy), June 9–13, 2025
-* Organizer, 2024 MITP program [Uncertainty Quantification in Nuclear Physics](https://indico.mitp.uni-mainz.de/event/356/), Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg University Mainz (co-organizers: Weiguang Jiang, Takayuki Miyagi, Joanna Sobczyk), June 24–28, 2024
+* German Physical Society, 2009–present.
+* Alexander von Humboldt Network, 2019–present.
+* American Physical Society, 2018–present.
+* FRIB Theory Alliance, 2021–present.
 
 ## Funding
 
 * Department of Energy, STREAMLINE2 Collaboration: Machine Learning for Nuclear Many-Body Systems (DE-SC0026198), 2025–2027
 * National Science Foundation, CAREER: Nuclear Matter from Chiral Effective Field Theory in the FRIB & Multimessenger Era ([2339043](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339043&HistoricalAwards=false)), 2024–2029
 * Department of Energy, STREAMLINE Collaboration: Machine Learning for Nuclear Many-Body Systems ([DE-SC0024233](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=66cb84af-5b64-41f7-a2a8-47c38f44ef3f&rtc=24&PRoleId=10)), 2023–2025
-* Ohio University startup funding, 2022–2026
+* Ohio University, startup funding, 2022–2026
+
+## Students
+
+### Current students
+* **Graduate students:** Abhinav Giri, Yoon Gyu Lee, and Luigi Spreafico
+* **Undergraduate student:** Camden Kilton
+  
+### Former students
+* Joshua Maldonado, graduate student (summer 2023–summer 2024). Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556).
+* Grace Eichler, undergraduate student (summer 2024–spring 2025). HTC thesis: [Sensitivity of the Neutron Star Structure on the Low-Density Equation of State Parameters](http://rave.ohiolink.edu/etdc/view?acc_num=ouhonors1745511553163446).
+
+## Workshops and conferences
+
+* Convener, "Nuclear Structure for Neutrinos and Astrophysics: Nuclear Matrix Elements for Neutrino and Dark Matter Interactions; Reaction Rates; Equation of State," 15th Conference on the Intersections of Particle and Nuclear Physics (CIPANP 2025), University of Wisconsin (co-conveners: Ingo Tews, Anna McCoy), June 9–13, 2025
+* Organizer, 2024 MITP program [Uncertainty Quantification in Nuclear Physics](https://indico.mitp.uni-mainz.de/event/356/), Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg University Mainz (co-organizers: Weiguang Jiang, Takayuki Miyagi, Joanna Sobczyk), June 24–28, 2024
 
 ## Publications
 
-The complete list can be found on [INSPIRE-HEP](https://inspirehep.net/authors/1405840?ui-citation-summary=true).
+The complete list and a citation summary are on my [INSPIRE-HEP](https://inspirehep.net/authors/1405840?ui-citation-summary=true) profile. For a selection of my scientific publications, see the [Publications page](/publications/index.html).
 
 ## Talks
 
 The complete list is available on the [Talks page](/talks/index.html).
+  
+## Research topics
 
-## Graduated students
 
-* Joshua Maldonado (Summer 2023–Summer 2024), STREAMLINE Collaboration, Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556)
-* Grace Eichler (Summer 2024–Spring 2025), undergraduate HTC thesis: [Sensitivity of the Neutron Star Structure on the Low-Density Equation of State Parameters](http://rave.ohiolink.edu/etdc/view?acc_num=ouhonors1745511553163446)
