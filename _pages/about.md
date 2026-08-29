@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Theoretical nuclear physics: from microscopic interactions to neutron stars"
+title: "From microscopic interactions to neutron stars"
 author_profile: true
 redirect_from: 
   - /about/
