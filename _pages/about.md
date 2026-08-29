@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "From microscopic interactions to neutron stars"
+title: "From microscopic nuclear interactions to neutron stars"
 author_profile: true
 redirect_from: 
   - /about/
