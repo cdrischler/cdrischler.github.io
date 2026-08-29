@@ -25,6 +25,7 @@ My **current research group** consists of:
 My group welcomes inquiries from prospective students and postdocs.
 
 > **Interested in a Research Fellowship of the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) (such as the [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship))?**
+> 
 > I'd be happy to serve as your host at Ohio University. Please don't hesitate to reach out.
 
 ### Past group members
