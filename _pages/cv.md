@@ -64,7 +64,7 @@ Additional information is available on the [Teaching page](/teaching/).
 * Undergraduate Assessment Committee member, 2025–present
 * N3AS Faculty Mentor, 2025–present
 * Astronomy Outreach Committee member, 2022–present
-* Faculty advisor of the "Physics and Astronomy Graduate Students" ([PandA GradS](https://www.ohio.edu/cas/physics-astronomy/student-organizations#graduate-students)) student organization, 2022–present
+* Faculty advisor of the "Physics and Astronomy Graduate Students" ([PandA GradS](https://www.ohio.edu/cas/physics-astronomy/graduate#panda-grads)) student organization, 2022–present
 
 **Referee:**     
 Physical Review Letters, Physical Review C, Nuclear Physics A, Physics Letters B, Modern Physics Letters A, Computer Physics Communications, International Journal of Modern Physics E, Journal of Physics G: Nuclear and Particle Physics, and The Astrophysical Journal Letters, 2018–present
