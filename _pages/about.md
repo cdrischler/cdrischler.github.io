@@ -25,10 +25,10 @@ My current **research interests** include:
 * Computational physics
 
 I'm **collaborating with**:
-* NSF-funded Physics Frontier Center _Network for Neutrinos, Nuclear Astrophysics, and Symmetries_ ([N3AS](https://n3as.berkeley.edu/))
+* NSF-funded Physics Frontier Center _Network for Neutrinos, Nuclear Astrophysics, and Symmetries_ ([N3AS](https://n3as.berkeley.edu/)),
 * _Bayesian Uncertainty Quantification: Errors in Your EFT_ ([BUQEYE](https://buqeye.github.io/)) collaboration,
 * NSF-funded _Bayesian Analysis of Nuclear Dynamics_ ([BAND](https://bandframework.github.io/)) Framework, and
-* DOE-funded _SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment_ (STREAMLINE) collaboration.
+* DOE-funded _SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment_ (STREAMLINE) Collaboration.
 
 > Don't hesitate to contact me if you are interested in a Research Fellowship of the [**Alexander von Humboldt Foundation**](https://www.humboldt-foundation.de/en/) (such as the [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship)) hosted by me at Ohio University.
 
@@ -37,15 +37,15 @@ I'm **collaborating with**:
 
 My **current research group** consists of:
 * [Yoon Gyu Lee](https://www.ohio.edu/cas/yl518521) (grad student)
-* [Abhinav Giri](https://www.ohio.edu/cas/ag086822) (grad student, STREAMLINE2 collaboration)
+* [Abhinav Giri](https://www.ohio.edu/cas/ag086822) (grad student, STREAMLINE2 Collaboration)
 * Luigi Spreafico (grad student)
 * Camden Kilton (undergrad student)
 
-Past group members:
-* [Jane Kim](https://www.ohio.edu/cas/janekim) (postdoc, 2024-2025, now at Argonne National Laboratory)
-* [Joshua Maldonado](https://www.ohio.edu/cas/jm998521) (grad student, M.S. thesis 2024, summer 2023 through summer 2024, STREAMLINE collaboration)
-* [Unish Gautam](https://www.ohio.edu/cas/ug783023) (grad student, summer 2024)
-* [Grace Eichler](https://www.linkedin.com/in/grace-eichler-b87a772b4) (undergrad HTC student, thesis 2025, summer 2024 through spring 2025)
+**Past group members:**
+* [Jane Kim](https://www.ohio.edu/cas/janekim) (postdoc, 2024–2025, now at Argonne National Laboratory)
+* [Joshua Maldonado](https://www.ohio.edu/cas/jm998521) (grad student, M.S. thesis 2024, Summer 2023–Summer 2024, STREAMLINE Collaboration)
+* [Unish Gautam](https://www.ohio.edu/cas/ug783023) (grad student, Summer 2024)
+* [Grace Eichler](https://www.linkedin.com/in/grace-eichler-b87a772b4) (undergrad HTC student, thesis 2025, Summer 2024–Spring 2025)
 
 ## Quick links
 
