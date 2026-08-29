@@ -32,7 +32,7 @@ Below is a selection of my scientific publications. The complete list can be fou
 
 ## Review articles
 
-* Drischler, C., Melendez, J. A., Furnstahl, R. J., Garcia, A. J., and Zhang, Xilin (2022): BUQEYE Guide to Projection-Based Emulators in Nuclear Physics. [Front. Phys. **10**, 92931](https://doi.org/10.3389/fphy.2022.1092931) ([source code]([https://github.com/cdrischler/nuclear_saturation](https://github.com/buqeye/frontiers-emulator-review))).
+* Drischler, C., Melendez, J. A., Furnstahl, R. J., Garcia, A. J., and Zhang, Xilin (2022): BUQEYE Guide to Projection-Based Emulators in Nuclear Physics. [Front. Phys. **10**, 92931](https://doi.org/10.3389/fphy.2022.1092931) ([source code](https://github.com/buqeye/frontiers-emulator-review)).
 * Melendez, J. A., Drischler, C., Furnstahl, R. J., Garcia, A. J., and Zhang, Xilin (2022): Model reduction methods for nuclear emulators. [J. Phys. G: Nucl. Part. Phys. **49**, 102001](https://doi.org/10.1088/1361-6471/ac83dd).
 * Drischler, C., Holt, J. W., and Wellenhofer, C. (2021): Chiral Effective Field Theory and the High-Density Nuclear Equation of State. [Annu. Rev. Nucl. Part. Sci. **71**, 403](https://doi.org/10.1146/annurev-nucl-102419-041903).
 * Drischler, C., Haxton, W., McElvain, K., Mereghetti, E., Nicholson, A., Vranas, P., and Walker-Loud, A. (2021): Towards grounding nuclear physics in QCD. [Prog. Part. Nucl. Phys. **121**, 103888](https://doi.org/10.1016/j.ppnp.2021.103888).
