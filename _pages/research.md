@@ -44,10 +44,10 @@ Theoretical modeling of nuclear systems, which are notoriously complex, often in
 
 My research program is tightly coupled to the **Facility for Rare Isotope Beams (FRIB)** at Michigan State University (MSU) and multimessenger observations, both of which will produce a wealth of data in the next decade. I aim to provide rigorous interpretations of these data to obtain a fundamental understanding of dense matter with quantified uncertainties.
 
-> [!NOTE]
 > **Interested in EOS physics and fast and accurate emulators for nuclear physics?** 
 >
 > If so, please feel free to reach out to me. I'm always happy to discuss this research with students, postdocs, and anyone interested.
+{: .notice--info}
 
 ## Further reading
 
