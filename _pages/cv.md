@@ -67,7 +67,7 @@ Additional information is available on the [Teaching page](/teaching/).
 * Faculty advisor of the "Physics and Astronomy Graduate Students" ([PandA GradS](https://www.ohio.edu/cas/physics-astronomy/student-organizations#graduate-students)) student organization, 2022–present
 
 **Referee:**     
-Phys. Rev. Lett., Phys. Rev. C, Nucl. Phys. A, Phys. Lett. B, Mod. Phys. Lett. A, Comput. Phys. Commun., Int. J. Mod. Phys. E, J. Phys. G: Nucl. Part. Phys., and Astrophys. J. Lett., 2018–present
+Physical Review Letters, Physical Review C, Nuclear Physics A, Physics Letters B, Modern Physics Letters A, Computer Physics Communications, International Journal of Modern Physics E, Journal of Physics G: Nuclear and Particle Physics, and The Astrophysical Journal Letters, 2018–present
   
 ## Professional societies
 
@@ -82,6 +82,8 @@ Phys. Rev. Lett., Phys. Rev. C, Nucl. Phys. A, Phys. Lett. B, Mod. Phys. Lett. A
 * National Science Foundation, CAREER: Nuclear Matter from Chiral Effective Field Theory in the FRIB & Multimessenger Era ([2339043](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339043&HistoricalAwards=false)), 2024–present
 * U.S. Department of Energy, STREAMLINE Collaboration: Machine Learning for Nuclear Many-Body Systems ([DE-SC0024233](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=66cb84af-5b64-41f7-a2a8-47c38f44ef3f&rtc=24&PRoleId=10)), 2023–2025
 * Ohio University, startup funding, 2022–present
+
+I'm also a Senior Investigator of the NSF Physics Frontier Center [Network for Neutrinos, Nuclear Astrophysics, and Symmetries](https://n3as.berkeley.edu/) (N3AS), 2026–present
 
 ## Students
 
