@@ -13,7 +13,7 @@ I'm a theoretical physicist working at the **intersection of nuclear physics and
 
 My research program is built on three interconnected themes:
 
-1. **Nuclear matter and neutron stars:** I derive microscopic constraints on the nuclear matter equation of state (EOS) and investigate their implications for the structure of neutron stars.
+1. **Nuclear matter and neutron stars:** I derive microscopic constraints on the nuclear matter equation of state (EOS) and investigate their implications for the structure and evolution of neutron stars.
 2. **Chiral effective field theory and many-body methods:** I develop advanced many-body methods and apply chiral effective field theory (EFT) to connect the microscopic properties of nuclear matter to quantum chromodynamics (QCD).
 3. **Bayesian uncertainty quantification and fast emulators:** I develop Bayesian statistical methods and fast, accurate emulators to quantify theoretical uncertainties and enable robust comparisons among nuclear theory, laboratory experiments, and multimessenger observations.
 
@@ -25,28 +25,28 @@ While a lot has recently been learned about dense matter through neutron star ob
 * What is the nature of matter at extreme temperatures and densities?
 * How does subatomic matter organize itself, and what phenomena emerge?
 
-My research, funded by both DOE and NSF, aims to advance our **microscopic understanding** of the nuclear EOS, the structure and evolution of neutron stars, and the nucleosynthesis of heavy elements in the universe.
+My research, funded by both DOE and NSF, aims to advance our microscopic understanding of the nuclear EOS, the structure and evolution of neutron stars, and the nucleosynthesis of heavy elements in the universe.
 
-To this end, I leverage chiral EFT of low-energy QCD, many-body theory, and state-of-the-art computational methods to solve the **nuclear many-body problem** with quantified uncertainties. My work on automated diagram evaluation for many-body perturbation theory and on rigorous EFT truncation-error quantification has shaped how the field now reports EOS uncertainties.
+To this end, I leverage chiral EFT, a low-energy effective theory of QCD, advanced many-body methods, and state-of-the-art computational tools to solve the **nuclear many-body problem** with quantified uncertainties. My work on automated diagram evaluation for many-body perturbation theory and on rigorous EFT truncation-error quantification has shaped how the field now reports EOS uncertainties.
 
-Nuclear theory has made **tremendous progress** in developing chiral EFT into a powerful framework for deriving nuclear forces consistent with the symmetries of low-energy QCD. I have contributed to this progress with several new ideas in chiral EFT, many-body theory, Bayesian machine learning (ML), and their applications to the study of neutron star physics.
+Nuclear theory has made **tremendous progress** in developing chiral EFT into a powerful framework for deriving nuclear forces consistent with the symmetries of low-energy QCD. I have contributed to this progress with several new ideas in chiral EFT, many-body methods, and Bayesian machine learning (ML), applying them to the study of neutron star physics.
 
 My Monte Carlo framework for **diagrammatic nuclear matter calculations** overcame previously required approximations and limitations using automated diagram evaluation, thereby enabling more accurate EOS predictions with controlled uncertainties. With my BUQEYE collaborators, I set the standard for rigorously quantifying theoretical uncertainties in EOS predictions due to truncating the EFT expansion at a finite order.
 
-These **EFT truncation errors** grow rapidly with baryon density, and rigorously quantifying them is critical for modeling neutron stars; previous EOS predictions only provided rough uncertainty estimates. My EOS calculations with quantified uncertainties have led to statistically robust predictions for neutron star structure that can be confronted with the wealth of experimental and observational EOS constraints anticipated in the multimessenger era, thereby advancing our understanding of dense matter.
+These **EFT truncation errors** grow rapidly with baryon density, and rigorously quantifying them is critical for modeling neutron stars; previous EOS predictions only provided rough uncertainty estimates. My EOS calculations with quantified uncertainties have produced statistically robust predictions for neutron star structure that can be confronted with the wealth of experimental and observational EOS constraints anticipated in the multimessenger era, advancing our understanding of dense matter.
 
 ## Future directions
 
-In the next few years, I aim to take full advantage of **multimessenger astronomy**, novel experimental campaigns, and advances in nuclear theory to constrain the nuclear EOS at zero and finite temperatures with unprecedented precision. This will shed light on further open questions in nuclear astrophysics, such as:
+In the next few years, I aim to take full advantage of **multimessenger astronomy**, novel experimental campaigns, and advances in nuclear theory to constrain the nuclear EOS at zero and finite temperatures with unprecedented precision. This will shed light on additional open questions in nuclear astrophysics, such as:
 * Can we accurately predict neutron star properties from first principles?
 * What are the (effective) degrees of freedom and QCD-based frameworks to be used?
 * What key aspects of the nuclear forces drive the structure of neutron stars and atomic nuclei?
 
 The high computational cost of nuclear many-body calculations will be mitigated by developing **fast and accurate emulators** using model-reduction methods.
 
-Theoretical modeling of nuclear systems, which are notoriously complex, often includes superfluous information for describing the quantities of interest. Emulators are fast surrogate models that systematically **reduce a system's complexity** while accurately approximating high-fidelity models — a game-changer for applying Bayesian statistical methods to nuclear physics, where each high-fidelity calculation can otherwise be prohibitively expensive to repeat thousands of times.
+Nuclear systems are notoriously complex, and their theoretical modeling often includes superfluous information for describing the quantities of interest. Emulators are fast surrogate models that systematically **reduce a system's complexity** while accurately approximating high-fidelity models — a game-changer for applying Bayesian statistical methods to nuclear physics, where each high-fidelity calculation can otherwise be prohibitively expensive to repeat thousands of times.
 
-My research program is tightly coupled to the **Facility for Rare Isotope Beams (FRIB)** at Michigan State University (MSU) and multimessenger observations, both of which will produce a wealth of data in the next decade. I aim to provide rigorous interpretations of these data to obtain a fundamental understanding of dense matter with quantified uncertainties.
+My research program is tightly coupled to the **Facility for Rare Isotope Beams (FRIB)** at Michigan State University (MSU) and multimessenger observations, both of which will produce a wealth of data in the next decade. I aim to provide rigorous interpretations of this data to obtain a fundamental understanding of dense matter with quantified uncertainties.
 
 > **Interested in EOS physics and fast and accurate emulators for nuclear physics?**     
 > If so, please feel free to reach out to me. I'm always happy to discuss this research with students, postdocs, and anyone interested.
