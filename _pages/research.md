@@ -40,22 +40,14 @@ In the next few years, I aim to take full advantage of **multimessenger astronom
 
 The high computational cost of nuclear many-body calculations will be mitigated by developing **fast and accurate emulators** using model-reduction methods. 
 
-Theoretical modeling of nuclear systems, which are notoriously complex, often include superfluous information for describing the quantities of interest. Emulators are fast surrogate models that systematically **reduce a system's complexity** while accurately approximating high-fidelity models. They are game-changers in applying Bayesian statistical methods to nuclear physics and are actively under study. 
+Theoretical modeling of nuclear systems, which are notoriously complex, often includes superfluous information for describing the quantities of interest. Emulators are fast surrogate models that systematically **reduce a system's complexity** while accurately approximating high-fidelity models. They are game-changers in applying Bayesian statistical methods to nuclear physics and are actively under study. 
 
 My research program is tightly coupled to the **Facility for Rare Isotope Beams (FRIB)** at Michigan State University (MSU) and multimessenger observations, both of which will produce a wealth of data in the next decade. I aim to provide rigorous interpretations of these data to obtain a fundamental understanding of dense matter with quantified uncertainties.
 
-## Collaborations
-
-This research is naturally **collaborative**, and I'm grateful to my colleagues in the following collaborations for making this joint endeavor productive, engaging, and exciting:
-
-* NSF-funded Physics Frontier Center _Network for Neutrinos, Nuclear Astrophysics, and Symmetries_ ([N3AS](https://n3as.berkeley.edu/)),
-* _Bayesian Uncertainty Quantification: Errors in Your EFT_ ([BUQEYE](https://buqeye.github.io/)) collaboration,
-* NSF-funded _Bayesian Analysis of Nuclear Dynamics_ ([BAND](https://bandframework.github.io/)) Framework, and
-* DOE-funded _SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment_ (STREAMLINE) Collaboration.
-
-**Interested in EOS physics and fast and accurate emulators for nuclear physics?** 
-
-If so, please feel free to reach out to me. I'm always happy to discuss this research with anyone interested.
+> [!NOTE]
+> **Interested in EOS physics and fast and accurate emulators for nuclear physics?** 
+>
+> If so, please feel free to reach out to me. I'm always happy to discuss this research with students, postdocs, and anyone interested.
 
 ## Further reading
 
@@ -65,3 +57,12 @@ In the meantime, let me draw your attention to the following pedagogical review 
 * C. Drischler, J. A. Melendez, R. J. Furnstahl, A. J. Garcia, and Xilin Zhang (2022): BUQEYE Guide to Projection-Based Emulators in Nuclear Physics, [Front. Phys. **10**, 92931](https://doi.org/10.3389/fphy.2022.1092931) ([source code](https://github.com/buqeye/frontiers-emulator-review)).
 
 I recently gave the recorded [**Science Café**](https://www.ohio.edu/sciencecafe) titled [The Strong Force Awakens: A Neutron Star Story](https://www.youtube.com/watch?v=0BK1xyjJ0UQ), which covered many of the mentioned subjects in a generally accessible way.
+
+## Collaborations
+
+This research is naturally **collaborative**, and I'm grateful to my colleagues in the following collaborations for making this joint endeavor productive, engaging, and exciting:
+
+* NSF-funded Physics Frontier Center _Network for Neutrinos, Nuclear Astrophysics, and Symmetries_ ([N3AS](https://n3as.berkeley.edu/)),
+* DOE-funded _SmarT Reduction and Emulation Applying Machine Learning In Nuclear Environment_ (STREAMLINE) Collaboration,
+* _Bayesian Uncertainty Quantification: Errors in Your EFT_ ([BUQEYE](https://buqeye.github.io/)) collaboration, and
+* NSF-funded _Bayesian Analysis of Nuclear Dynamics_ ([BAND](https://bandframework.github.io/)) Framework.
