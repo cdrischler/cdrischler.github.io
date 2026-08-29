@@ -21,6 +21,8 @@ While a lot has recently been learned about dense matter through neutron star ob
 
 My research, funded by both DOE and NSF, aims to advance our **microscopic understanding** of the nuclear EOS, the structure and evolution of neutron stars, and the nucleosynthesis of heavy elements in the universe. 
 
+## Current research directions
+
 To this end, I leverage chiral EFT of low-energy QCD, many-body theory, and state-of-the-art computational methods to solve the **nuclear many-body problem** with quantified uncertainties. My original research has made significant contributions to nuclear physics and nuclear astrophysics. It has been recognized internationally through research fellowships, awards, and invitations to give plenary talks and write review articles.
 
 Nuclear theory has made **tremendous progress** in developing chiral EFT into a powerful framework for deriving nuclear forces consistent with the symmetries of low-energy QCD. I have contributed to this progress with several new ideas in chiral EFT, many-body theory, Bayesian machine learning (ML), and their applications to the study of neutron star physics. 
@@ -29,6 +31,8 @@ My Monte Carlo framework for **diagrammatic nuclear matter calculations** overca
 
 These **EFT truncation errors** grow rapidly with baryon density, and rigorously quantifying them is critical for modeling neutron stars; previous EOS predictions only provided rough uncertainty estimates. My EOS calculations with quantified uncertainties have led to statistically robust predictions for neutron star structure that can be confronted with the wealth of experimental and observational EOS constraints anticipated in the multimessenger era, thereby advancing our understanding of dense matter.
 
+## Future directions
+
 In the next few years, I aim to take full advantage of **multimessenger astronomy**, novel experimental campaigns, and advances in nuclear theory to constrain the nuclear EOS at zero and finite temperatures with unprecedented precision. This will shed light on **important questions in nuclear astrophysics**, such as:
 * Can we accurately predict neutron star properties from first principles?
 * What are the (effective) degrees of freedom and QCD-based frameworks to be used?
@@ -36,7 +40,7 @@ In the next few years, I aim to take full advantage of **multimessenger astronom
 
 The high computational cost of nuclear many-body calculations will be mitigated by developing **fast and accurate emulators** using model-reduction methods. 
 
-Theoretical modeling of nuclear systems, which are notoriously complex, often includes superfluous information for describing the quantities of interest. Emulators are fast surrogate models that systematically **reduce a system's complexity** while accurately approximating high-fidelity models. They are game-changers in applying Bayesian statistical methods to nuclear physics and are actively under study. 
+Theoretical modeling of nuclear systems, which are notoriously complex, often include superfluous information for describing the quantities of interest. Emulators are fast surrogate models that systematically **reduce a system's complexity** while accurately approximating high-fidelity models. They are game-changers in applying Bayesian statistical methods to nuclear physics and are actively under study. 
 
 My research program is tightly coupled to the **Facility for Rare Isotope Beams (FRIB)** at Michigan State University (MSU) and multimessenger observations, both of which will produce a wealth of data in the next decade. I aim to provide rigorous interpretations of these data to obtain a fundamental understanding of dense matter with quantified uncertainties.
 
