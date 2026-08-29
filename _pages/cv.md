@@ -78,8 +78,8 @@ Additional information is available on the [Teaching page](/teaching/).
 ## Students
 
 **Current students:**  
-* **Graduate students:** Abhinav Giri, Yoon Gyu Lee, and Luigi Spreafico
-* **Undergraduate student:** Camden Kilton
+* Graduate students: Abhinav Giri, Yoon Gyu Lee, and Luigi Spreafico
+* Undergraduate student: Camden Kilton
   
 **Former students:**  
 * Joshua Maldonado, graduate student (summer 2023–summer 2024). Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556)
@@ -101,4 +101,4 @@ The complete list is available on the [Talks page](/talks/index.html).
   
 ## Research topics
 
-
+My research sits at the intersection of theoretical nuclear physics and nuclear astrophysics. I use microscopic nuclear theory and computational methods to study strongly interacting, strongly coupled matter, ranging from atomic nuclei to the dense matter inside neutron stars. I combine chiral effective field theory and many-body methods with Bayesian uncertainty quantification, fast emulators, and other AI/ML techniques to deliver robust predictions and connect nuclear theory with experiment and astrophysical observation.
