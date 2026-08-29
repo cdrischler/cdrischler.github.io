@@ -11,7 +11,7 @@ redirect_from:
 
 Below is a brief version of my curriculum vitae.
 
-**Dr. Christian Drischler**
+**Dr. Christian Drischler**     
 Assistant Professor     
 FRIB-TA Bridge Faculty     
 Department of Physics and Astronomy     
