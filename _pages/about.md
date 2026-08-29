@@ -12,7 +12,7 @@ Hello, I'm Christian Drischler. I'm an **Assistant Professor of Physics** at the
 * a senior investigator of the Physics Frontier Center [N3AS](https://n3as.berkeley.edu/), and
 * the faculty advisor of the graduate student organization [PandA GradS](https://www.ohio.edu/cas/physics-astronomy/graduate#panda-grads).
 
-Working at the intersection of theoretical nuclear physics and nuclear astrophysics, my group develops microscopic methods to study matter under extreme conditions and connect nuclear interactions to laboratory experiments and astrophysical observations of neutron stars. Our research program is built on three interconnected themes: **nuclear matter and neutron stars**, **chiral effective field theory and many-body methods**, and **Bayesian uncertainty quantification and fast emulators**. This work has been recognized with a 2024 NSF CAREER Award. Learn more about my [research](/research/), [publications](/publications/), [talks](/talks/), and [teaching](/teaching/).
+Working at the intersection of theoretical nuclear physics and nuclear astrophysics, my group develops microscopic methods to study matter under extreme conditions and connect nuclear interactions to laboratory experiments and astrophysical observations of neutron stars. Our research program is built on three interconnected themes: **nuclear matter and neutron stars**, **chiral effective field theory and many-body methods**, and **Bayesian uncertainty quantification and fast emulators**. This work has been recognized with a 2024 NSF CAREER Award. Learn more about my [research](/research/index.html), [publications](/publications/index.html), [talks](/talks/index.html), and [teaching](/teaching/index.html).
 
 ## Research group at Ohio University
 
