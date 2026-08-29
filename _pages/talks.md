@@ -7,7 +7,7 @@ redirect_from:
   - /talks
 ---
 
-Below is the list of seminar and colloquium talks I have given since 2018. The locations are plotted on the map.
+Since 2018, I have given more than 65 talks across seven countries, including invited seminars, colloquia, and plenary presentations. Their locations are shown on the map below.
 
 <iframe src="map.html" height="500px" width="100%" style="border:none;"></iframe>
 
