@@ -32,7 +32,7 @@ Students are highlighted in <span style="color:#2b6cb0;font-weight:bold;">blue</
 * C. Drischler, K. Hebeler, and A. Schwenk (2016): Asymmetric nuclear matter based on chiral two- and three-nucleon interactions, [Phys. Rev. C **93**, 054314](https://doi.org/10.1103/PhysRevC.93.054314) (>195 citations).
 * C. Drischler, S. Han, J. M. Lattimer, M. Prakash, S. Reddy, and T. Zhao (2021): Limiting masses and radii of neutron stars and their implications, [Phys. Rev. C **103**, 045808](https://doi.org/10.1103/PhysRevC.103.045808) (>175 citations).
 
-This selection excludes review articles.
+Review articles are excluded. Ordered according to the INSPIRE-HEP citation count. 
 
 ## Invited review articles
 
