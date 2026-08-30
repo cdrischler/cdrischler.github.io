@@ -6,13 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I'm Christian Drischler. I'm an **Assistant Professor of Physics** at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at [Ohio University](https://www.ohio.edu/), where I'm also:
+Hello, I'm Christian Drischler. I'm working at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at [Ohio University](https://www.ohio.edu/), where I'm:
+* an **Assistant Professor of Physics** 
 * an [FRIB](https://frib.msu.edu/) Theory Alliance Bridge Faculty,
 * an elected member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/index.php),
 * a senior investigator of the Physics Frontier Center [N3AS](https://n3as.berkeley.edu/), and
 * the faculty advisor of the graduate student organization [PandA GradS](https://www.ohio.edu/cas/physics-astronomy/graduate#panda-grads).
 
-Working at the intersection of theoretical nuclear physics and nuclear astrophysics, my group develops microscopic methods to study matter under extreme conditions and connect nuclear interactions to laboratory experiments and astrophysical observations of neutron stars. Our research program is built on three interconnected themes: **nuclear matter and neutron stars**, **chiral effective field theory and many-body methods**, and **Bayesian uncertainty quantification and fast emulators**. This work has been recognized with a 2024 NSF CAREER Award. Learn more about my [research](/research/index.html), [publications](/publications/index.html), [talks](/talks/index.html), and [teaching](/teaching/index.html).
+My research is at the intersection of theoretical nuclear physics and nuclear astrophysics, using microscopic nuclear theory and computational methods to understand strongly interacting matter, ranging from atomic nuclei to the dense matter inside neutron stars. I combine chiral effective field theory and modern many-body methods with Bayesian uncertainty quantification, fast and accurate emulators, and other AI/ML techniques to deliver robust, uncertainty-quantified predictions that connect nuclear theory to experiment and astrophysical observation. This work has been recognized with a 2024 NSF CAREER Award. Learn more about my [research](/research/index.html), [publications](/publications/index.html), [talks](/talks/index.html), and [teaching](/teaching/index.html).
 
 ## Research group at Ohio University
 
