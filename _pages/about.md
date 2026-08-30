@@ -13,7 +13,7 @@ Hello, I'm Christian Drischler. I'm working at the [Institute of Nuclear and Par
 * a senior investigator of the Physics Frontier Center [N3AS](https://n3as.berkeley.edu/), and
 * the faculty advisor of the graduate student organization [PandA GradS](https://www.ohio.edu/cas/physics-astronomy/graduate#panda-grads).
 
-My research is at the intersection of **theoretical nuclear physics** and **nuclear astrophysics**, using microscopic nuclear theory and computational methods to understand strongly interacting matter, ranging from atomic nuclei to the dense matter inside neutron stars. I combine chiral effective field theory and modern many-body methods with Bayesian uncertainty quantification, fast and accurate emulators, and other AI/ML techniques to deliver robust, uncertainty-quantified predictions that connect nuclear theory to experiment and astrophysical observation. 
+My research at the intersection of **theoretical nuclear physics** and **nuclear astrophysics** centers on three interconnected thrusts. I derive microscopic constraints on the nuclear equation of state (EOS) and explore their implications for the structure and evolution of neutron stars. To obtain these constraints, I develop advanced methods for solving the many-body Schrödinger equation using microscopic nuclear interactions derived from chiral effective field theory (EFT). I complement these theoretical calculations with Bayesian statistical methods, fast and accurate emulators, and other AI/ML techniques to quantify uncertainties and enable robust comparisons among nuclear theory, laboratory experiments, and multimessenger observations.
 
 This work has been recognized with a 2024 NSF CAREER Award. 
 
