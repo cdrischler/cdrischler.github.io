@@ -13,7 +13,11 @@ Hello, I'm Christian Drischler. I'm working at the [Institute of Nuclear and Par
 * a senior investigator of the Physics Frontier Center [N3AS](https://n3as.berkeley.edu/), and
 * the faculty advisor of the graduate student organization [PandA GradS](https://www.ohio.edu/cas/physics-astronomy/graduate#panda-grads).
 
-My research is at the intersection of theoretical nuclear physics and nuclear astrophysics, using microscopic nuclear theory and computational methods to understand strongly interacting matter, ranging from atomic nuclei to the dense matter inside neutron stars. I combine chiral effective field theory and modern many-body methods with Bayesian uncertainty quantification, fast and accurate emulators, and other AI/ML techniques to deliver robust, uncertainty-quantified predictions that connect nuclear theory to experiment and astrophysical observation. This work has been recognized with a 2024 NSF CAREER Award. Learn more about my [research](/research/index.html), [publications](/publications/index.html), [talks](/talks/index.html), and [teaching](/teaching/index.html).
+My research is at the intersection of **theoretical nuclear physics** and **nuclear astrophysics**, using microscopic nuclear theory and computational methods to understand strongly interacting matter, ranging from atomic nuclei to the dense matter inside neutron stars. I combine chiral effective field theory and modern many-body methods with Bayesian uncertainty quantification, fast and accurate emulators, and other AI/ML techniques to deliver robust, uncertainty-quantified predictions that connect nuclear theory to experiment and astrophysical observation. 
+
+This work has been recognized with a 2024 NSF CAREER Award. 
+
+Learn more about my [research](/research/index.html), [publications](/publications/index.html), [talks](/talks/index.html), and [teaching](/teaching/index.html).
 
 ## Research group at Ohio University
 
