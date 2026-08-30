@@ -29,10 +29,10 @@ My group welcomes inquiries from prospective students and postdocs.
 
 ### Past group members
 
-* Grace Eichler, undergraduate student, HTC thesis 2025, summer 2024–spring 2025
 * Jane Kim, postdoctoral researcher, 2024–2025, now at Argonne National Laboratory
-* Unish Gautam, summer graduate student, summer 2024
-* Joshua Maldonado, graduate student, M.S. thesis 2024, summer 2023–summer 2024
+* Grace Eichler, undergraduate student, HTC thesis 2025, 2024–2025
+* Unish Gautam, summer graduate student, 2024
+* Joshua Maldonado, graduate student, M.S. thesis 2024, 2023–2024
 
 ## In the news
 
