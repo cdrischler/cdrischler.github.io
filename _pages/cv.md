@@ -83,21 +83,35 @@ Additional information is available on the [Teaching page](/teaching/).
 * Unish Gautam, summer graduate student, 2024, working on chiral four-body forces
 * Joshua Maldonado, graduate student, 2023–2024, Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556)
 
-## Service
-
-**FRIB Theory Alliance:**
-* Education and Topical Programs Committee (chair), 2026–
-* Webpage Committee, 2024–present (chair since 2026)
-* Executive Board member (elected), 2024–present
-
-**Ohio University:**
+## Ohio University Committees
 * Department of Physics & Astronomy Colloquium Committee member, 2026–present
-* Undergraduate Assessment Committee member, 2025–present
-* N3AS Faculty Mentor, 2025–present
-* Astronomy Outreach Committee member, 2022–present
+* Undergraduate Assessment Committee, 2025–present
+* Various Search Committees, 2023-2025
+* Various Master's and Ph.D. Committees, Department of Physics & Astronomy and Mathematics Department, 2022-present
+* Astronomy Outreach Committee, 2022–present
 * Faculty advisor of the "Physics and Astronomy Graduate Students" ([PandA GradS](https://www.ohio.edu/cas/physics-astronomy/graduate#panda-grads)) student organization, 2022–present
 
-**Referee:**     
+## National and International Committees:
+* FRIB Theory Alliance Executive Board, elected member, chair of Education and Topical Programs Committee (since 06/2026), and member of the Webpage Committee (chair since 06/2026), 2024–present
+* Chair of the FRIB/NSCL Nuclear Theory Seminar Committee, 2021–2022
+
+## Community Engagement
+
+* Invited speaker, Ohio University Science Café, presented [The Strong Force Awakens: A Neutron Star Story](https://www.youtube.com/live/0BK1xyjJ0UQ), 11/2025
+* NSF CAREER educational plan, “What Is...?” posters on scientific topics, featured at Public Telescope Nights at the Ohio University Observatory and at the Edwards Accelerator Laboratory lobby screen, 09/2024–present
+* Host, Physics & Astronomy Public Telescope Nights at the Ohio University Observatory, 08/2022–present
+
+## Workshop and conference organization
+
+* Session convener, "Nuclear Structure for Neutrinos and Astrophysics: Nuclear Matrix Elements for Neutrino and Dark Matter Interactions; Reaction Rates; Equation of State" at the 15th Conference on the Intersections of Particle and Nuclear Physics ([CIPANP 2025](https://agenda.hep.wisc.edu/event/2257/)), University of Wisconsin (co-conveners: Ingo Tews, Anna McCoy), June 9–13, 2025
+* Program organizer, 2024 MITP program [Uncertainty Quantification in Nuclear Physics](https://indico.mitp.uni-mainz.de/event/356/), Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg University Mainz (co-organizers: Weiguang Jiang, Takayuki Miyagi, Joanna Sobczyk), June 24–28, 2024
+
+## Teaching at Physics Schools
+
+* Teaching facilitator, Physics Immersion Week, a (virtual) one-week course on introducing Python and numerical methods to solve physics problems at the Facility for Rare Isotope Beams, organized by J. Butler and M. Hjorth-Jensen, 2021
+* Teaching facilitator, Nuclear TALENT: Learning from Data–Bayesian Methods and Machine Learning, at University of York, UK; organized by Profs. C. Forssén, R. J. Furnstahl, and D. R. Phillips, 2019	
+
+## Referee:  
 Physical Review Letters, Physical Review C, Nuclear Physics A, Physics Letters B, Modern Physics Letters A, Computer Physics Communications, International Journal of Modern Physics E, Journal of Physics G: Nuclear and Particle Physics, and The Astrophysical Journal Letters, 2018–present
   
 ## Professional societies
@@ -106,17 +120,6 @@ Physical Review Letters, Physical Review C, Nuclear Physics A, Physics Letters B
 * Alexander von Humboldt Network, 2019–present
 * American Physical Society, 2019–present
 * German Physical Society, 2009–present
-
-## Workshop and conference organization
-
-* Session convener, "Nuclear Structure for Neutrinos and Astrophysics: Nuclear Matrix Elements for Neutrino and Dark Matter Interactions; Reaction Rates; Equation of State" at the 15th Conference on the Intersections of Particle and Nuclear Physics ([CIPANP 2025](https://agenda.hep.wisc.edu/event/2257/)), University of Wisconsin (co-conveners: Ingo Tews, Anna McCoy), June 9–13, 2025
-* Program organizer, 2024 MITP program [Uncertainty Quantification in Nuclear Physics](https://indico.mitp.uni-mainz.de/event/356/), Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg University Mainz (co-organizers: Weiguang Jiang, Takayuki Miyagi, Joanna Sobczyk), June 24–28, 2024
-
-## Community engagement (TODO)
-
-11/2025	Invited speaker, Ohio University Science Café, presented The Strong Force Awakens: A Neutron Star Story, an engaging public introduction to my research. The YouTube recording has received more than 530 views.
-09/2024–present	NSF CAREER educational plan, developed 18 accessible “What Is...?” posters on scientific topics and “Who Is...?” profiles of influential researchers. The posters are featured at Public Telescope Nights and in the Edwards Accelerator Laboratory, supporting community outreach and departmental education. Undergraduate students contributed to content development and review.
-08/2022–present	Host, Physics & Astronomy Public Telescope Nights at the Ohio University observatory, led approx. 12 public observing annually and additional programs for middle- and high-school students, engaging community members in astronomy through guided telescope observations and accessible discussions of the Moon, planets, and other celestial objects.
 
 ## Publications
 
