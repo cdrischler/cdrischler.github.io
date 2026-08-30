@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 
-Below is a selection of my scientific publications. For a complete list of publications and a citation summary, see my [INSPIRE-HEP](https://inspirehep.net/authors/1405840?ui-citation-summary=true) profile.
+Below is a selection of my scientific publications. For a complete list of my publications and a citation summary, see my [INSPIRE-HEP](https://inspirehep.net/authors/1405840?ui-citation-summary=true) profile.
 
 ## Research led by my students and postdocs
 
