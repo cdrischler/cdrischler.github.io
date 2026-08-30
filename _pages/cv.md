@@ -73,7 +73,7 @@ Physical Review Letters, Physical Review C, Nuclear Physics A, Physics Letters B
 
 * FRIB Theory Alliance, 2021–present
 * Alexander von Humboldt Network, 2019–present
-* American Physical Society, 2018–present
+* American Physical Society, 2019–present
 * German Physical Society, 2009–present
 
 ## Funding
