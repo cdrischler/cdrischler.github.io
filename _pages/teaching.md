@@ -10,7 +10,7 @@ Below is an overview of the courses I have taught at Ohio University, along with
 
 ## PHYS 2002: Introduction to Physics
 
-The second **undergraduate** course in an algebra-based introductory physics sequence, open to students from all disciplines. Topics include electricity and magnetism, waves and optics, relativity, quantum physics, atomic physics, and nuclear physics. The four-credit course combines three hours of weekly lecture with a two-hour laboratory. I co-taught the course with Mark Lucas in Spring 2026 and taught it alone in Fall 2026.
+The second **undergraduate** course in an algebra-based introductory physics sequence, open to students from all disciplines. Topics include electricity and magnetism, waves and optics, relativity, quantum physics, atomic physics, and nuclear physics. The four-credit course combines three hours of weekly lecture with a two-hour laboratory. I co-taught the course with Mark Lucas in Spring 2026 and taught it independently in Fall 2026 (including the labs).
 
 Taught in Spring 2026 and Fall 2026.
 
@@ -22,7 +22,7 @@ Taught in Fall 2023, Fall 2024, and Fall 2025.
 
 ## PHYS 6900: Computational Physics Summer Tutorials
 
-This course provides **graduate** students with a hands-on introduction to scientific computing and the Python programming language. Offered as a five-week summer program, it combines lectures and practical learning activities in two one-hour sessions each week, along with a collaborative final project. The course prepares students for PHYS 4071/5071: Computer Simulation Methods in Physics. Materials are available on [GitHub](https://github.com/cdrischler/compphysics-summer-tutorials).
+This course provides **graduate** students with a hands-on introduction to scientific computing and Python. Offered as a five-week summer program, it combines lectures and practical learning activities in two one-hour sessions each week, along with a collaborative final project. The course prepares students for PHYS 4071/5071: Computer Simulation Methods in Physics. Materials are available on [GitHub](https://github.com/cdrischler/compphysics-summer-tutorials).
 
 Taught in Summer 2023, Summer 2024, and Summer 2025.
 
