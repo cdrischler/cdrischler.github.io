@@ -7,7 +7,7 @@ redirect_from:
   - /talks
 ---
 
-Since 2018, I have given more than 65 talks across seven countries, including invited seminars and colloquia. Their locations are shown on the map below.
+Since 2018, I have given more than 65 talks, including invited seminars and colloquia. The map below shows their locations.
 
 <iframe src="map.html" height="500px" width="100%" style="border:none;"></iframe>
 
@@ -89,7 +89,7 @@ Since 2018, I have given more than 65 talks across seven countries, including in
 * Chiral interactions up to N3LO and nuclear saturation, July 11, invited talk, Nuclear Structure at the Crossroads (organizers: Furnstahl, Hammer, Schwenk), Institute for Nuclear Theory, Seattle, WA, USA
 * Dilute Fermi gas at fourth order in effective field theory, April 14, contributed talk, APS April Meeting, Denver, CO, USA
 * Nuclear Matter at High Orders from Chiral Effective Field Theory, February 19, invited seminar, Nuclear Science Division staff meeting, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
-* Nuclear-Matter Equation of State at High Orders from Effective Field theory, February 12, invited seminar, Los Alamos National Laboratory, Los Alamos, NM, USA
+* Nuclear-Matter Equation of State at High Orders from Effective Field Theory, February 12, invited seminar, Los Alamos National Laboratory, Los Alamos, NM, USA
 
 ## 2018
 
