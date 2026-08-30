@@ -101,6 +101,12 @@ Physical Review Letters, Physical Review C, Nuclear Physics A, Physics Letters B
 * Session convener, "Nuclear Structure for Neutrinos and Astrophysics: Nuclear Matrix Elements for Neutrino and Dark Matter Interactions; Reaction Rates; Equation of State" at the 15th Conference on the Intersections of Particle and Nuclear Physics ([CIPANP 2025](https://agenda.hep.wisc.edu/event/2257/)), University of Wisconsin (co-conveners: Ingo Tews, Anna McCoy), June 9–13, 2025
 * Program organizer, 2024 MITP program [Uncertainty Quantification in Nuclear Physics](https://indico.mitp.uni-mainz.de/event/356/), Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg University Mainz (co-organizers: Weiguang Jiang, Takayuki Miyagi, Joanna Sobczyk), June 24–28, 2024
 
+## Community engagement (TODO)
+
+11/2025	Invited speaker, Ohio University Science Café, presented The Strong Force Awakens: A Neutron Star Story, an engaging public introduction to my research. The YouTube recording has received more than 530 views.
+09/2024–present	NSF CAREER educational plan, developed 18 accessible “What Is...?” posters on scientific topics and “Who Is...?” profiles of influential researchers. The posters are featured at Public Telescope Nights and in the Edwards Accelerator Laboratory, supporting community outreach and departmental education. Undergraduate students contributed to content development and review.
+08/2022–present	Host, Physics & Astronomy Public Telescope Nights at the Ohio University observatory, led approx. 12 public observing annually and additional programs for middle- and high-school students, engaging community members in astronomy through guided telescope observations and accessible discussions of the Moon, planets, and other celestial objects.
+
 ## Publications
 
 The complete list and a citation summary are on my [INSPIRE-HEP](https://inspirehep.net/authors/1405840?ui-citation-summary=true) profile.    
