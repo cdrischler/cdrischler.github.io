@@ -78,12 +78,13 @@ Physical Review Letters, Physical Review C, Nuclear Physics A, Physics Letters B
 
 ## Funding
 
-* U.S. Department of Energy, STREAMLINE2 Collaboration: Machine Learning for Nuclear Many-Body Systems (DE-SC0026198), 2025–present
-* National Science Foundation, CAREER: Nuclear Matter from Chiral Effective Field Theory in the FRIB & Multimessenger Era ([2339043](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339043&HistoricalAwards=false)), 2024–present
-* U.S. Department of Energy, STREAMLINE Collaboration: Machine Learning for Nuclear Many-Body Systems ([DE-SC0024233](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=66cb84af-5b64-41f7-a2a8-47c38f44ef3f&rtc=24&PRoleId=10)), 2023–2025
-* Ohio University, startup funding, 2022–present
+* Senior Investigator, National Science Foundation, Physics Frontier Center [Network for Neutrinos, Nuclear Astrophysics, and Symmetries](https://n3as.berkeley.edu/) (N3AS), 2026–present
+* Senior Investigator, U.S. Department of Energy, STREAMLINE2 Collaboration: Machine Learning for Nuclear Many-Body Systems (DE-SC0026198), 2025–present
+* Principal Investigator, National Science Foundation, CAREER: Nuclear Matter from Chiral Effective Field Theory in the FRIB & Multimessenger Era ([2339043](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339043&HistoricalAwards=false)), 2024–present
+* Senior Investigator, U.S. Department of Energy, STREAMLINE Collaboration: Machine Learning for Nuclear Many-Body Systems ([DE-SC0024233](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=66cb84af-5b64-41f7-a2a8-47c38f44ef3f&rtc=24&PRoleId=10)), 2023–2025
+* Principal Investigator, Ohio University, startup funding, 2022–present
 
-I'm also a Senior Investigator of the NSF Physics Frontier Center [Network for Neutrinos, Nuclear Astrophysics, and Symmetries](https://n3as.berkeley.edu/) (N3AS), 2026–present
+I'm also a S
 
 ## Students
 
