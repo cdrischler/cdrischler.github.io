@@ -31,14 +31,14 @@ Since 2018, I have given more than 65 talks across seven countries, including in
 * Fast and accurate emulators for nuclear physics and beyond, November 19, invited Department of Mathematics colloquium, Ohio University, Athens, Ohio, USA
 * Microscopic Equation of State Constraints and Bayesian Uncertainty Quantification, September 9, invited talk (given remotely), XIIth International Symposium on Nuclear Symmetry Energy (NUSYM 2024, organizers: Chbihi, Ciampi, Fantina, Gruyer), Grand Accélérateur National d'Ions Lourds (GANIL), Caen, France
 * From Low to High Densities: Bayesian Uncertainty Quantification of the EOS, August 26, invited talk, INT Workshop INT-24-89W: EOS Measurements with Next-Generation Gravitational-Wave Detectors (organizers: Landry, Raithel, Vitale, Constantinou, Han, and Zhao), Institute for Nuclear Theory, Seattle, WA, USA
-* A Greedy Algorithm for Nuclear Two-Body Scattering, August 8, Low-Energy Community Meeting (LECM), University of Tennessee Knoxville and Oak Ridge National Laboratory, Knoxville, TN, USA
+* A Greedy Algorithm for Nuclear Two-Body Scattering, August 8, contributed talk, Low-Energy Community Meeting (LECM), University of Tennessee Knoxville and Oak Ridge National Laboratory, Knoxville, TN, USA
 * A Bayesian mixture model approach to quantifying the empirical nuclear saturation point, May 10, invited talk, 2024 STREAMLINE Symposium (organized by Lee), Facility for Rare Isotope Beams (FRIB), East Lansing, MI, USA
 * Bayesian uncertainty quantification for microscopic nuclear matter calculations, April 25, invited seminar, Nuclear Physics Seminar, Washington University in St. Louis, MO, USA
 
 ## 2023
 
 * Chiral Effective Field Theory: Interactions, Emulators, and Many-Body Systems, September 25, invited talk, The Past, Present, and Future of Nuclear Structure Theory in the FRIB Era (organized by Bertsch, Gade, Janssens, Lee, Ormand, and Stroberg), Facility for Rare Isotope Beams (FRIB), East Lansing, MI, USA
-* Novel emulators for nucleon-nucleon scattering, August 10, Low-Energy Community Meeting (LECM), Facility for Rare Isotope Beams (FRIB), East Lansing, MI, USA
+* Novel emulators for nucleon-nucleon scattering, August 10, contributed talk, Low-Energy Community Meeting (LECM), Facility for Rare Isotope Beams (FRIB), East Lansing, MI, USA
 * Bayesian Model Mixing analysis of the empirical saturation point, June 30, invited talk, INT Workshop INT-22r-2a: Neutron-Rich Matter on Heaven and Earth (Chatziioannou, Piekarewicz, Watts), Institute for Nuclear Theory, Seattle, WA, USA
 * Automated code generation for Many-Body Perturbation Theory diagrams, June 7, invited talk, Automated tools for many-body theory (organizers: Arthuis, Duguet, Evangelista), ESNT, CEA Saclay, France
 * Fast & accurate emulation of two-body scattering, May 31, invited talk, Eigenvector continuation method in nuclear structure and reaction theory (organizers: Duguet, Ekström, Furnstahl, König, Lee), ESNT, CEA Saclay, France
@@ -51,13 +51,13 @@ Since 2018, I have given more than 65 talks across seven countries, including in
 ## 2022
 
 * Nuclear matter in the FRIB era, October 24, invited Nuclear Physics Seminar, University of Notre Dame, South Bend, IN, USA
-* How well do we know the nuclear saturation point?, October 1, plenary talk, The 33rd Midwest Theory Get-Together 2022 (organizers: Fossez, Cloët, Lovato, Stroberg, Zhao), Argonne National Laboratory, Lemont, IL, USA
+* How well do we know the nuclear saturation point?, October 1, contributed plenary talk, The 33rd Midwest Theory Get-Together 2022 (organizers: Fossez, Cloët, Lovato, Stroberg, Zhao), Argonne National Laboratory, Lemont, IL, USA
 * Equation of State of Neutron-Rich Matter and Relevance for Neutron Stars, September 1, invited plenary talk, 14th Conference on the Intersections of Particle and Nuclear Physics (organizers: Casey, Balantekin), Orlando, FL, USA
 * Theoretical advances and uncertainty quantification of neutron star properties, July 21, invited overview talk, INT–22–2a: Neutron Rich Matter on Heaven and Earth (organizers: Chatziioannou, Piekarewicz, Watts), Institute for Nuclear Theory, Seattle, WA, USA
 * Chiral effective field theory and the nuclear equation of state, April 18, invited (virtual) seminar talk, Modular Unified Solver of the Equation of State (MUSES) collaboration, University of Illinois Urbana-Champaign, Champaign, IL, USA
 * Nuclear matter from chiral effective field theory with quantified uncertainties, April 14, invited (virtual) seminar talk, University of Maryland, College Park, MD, USA
-* Nuclear Matter from Chiral Effective Field Theory in the Era of Multi-Messenger Astronomy, February 17, faculty interview colloquium, Ohio University, Athens, OH, USA
-* Nuclear Matter from Chiral Effective Field Theory in the Era of Multi-Messenger Astronomy, February 9, faculty interview colloquium, University of Notre Dame, South Bend, IN, USA
+* Nuclear Matter from Chiral Effective Field Theory in the Era of Multi-Messenger Astronomy, February 17, invited faculty interview colloquium, Ohio University, Athens, OH, USA
+* Nuclear Matter from Chiral Effective Field Theory in the Era of Multi-Messenger Astronomy, February 9, invited faculty interview colloquium, University of Notre Dame, South Bend, IN, USA
 
 ## 2021 (virtual due to COVID pandemic)
 
@@ -66,11 +66,11 @@ Since 2018, I have given more than 65 talks across seven countries, including in
 * Fast & accurate emulation of two-body scattering observables, November 12, invited seminar, Nuclear Theory Seminar, Chalmers University of Technology, Gothenburg, Sweden
 * Equation of State of Dense Neutron-rich Matter at Zero Temperature, October 21, invited seminar, Biweekly Neutron Star Merger Meetings (organized by Sanjay Reddy), Network for Neutrinos, Nuclear Astrophysics, and Symmetries (N3AS)
 * Toward emulating nuclear reactions using eigenvector continuation, October 13, contributed talk, 2021 Fall Meeting of the APS Division of Nuclear Physics
-* Efficient emulators for two-body scattering observables using eigenvector continuation, October 6, Research Discussion at Facility for Rare Isotope Beams (FRIB), East Lansing, MI, USA
+* Efficient emulators for two-body scattering observables using eigenvector continuation, October 6, contributed Research Discussion at Facility for Rare Isotope Beams (FRIB), East Lansing, MI, USA
 * Efficient emulators for two-body scattering using eigenvector continuation, September 30, invited seminar, Nuclear Physics Seminar, Washington University in St. Louis, MO, USA
 * Equation of state constraints from chiral effective field theory and astrophysics, September 23, invited review talk, International Symposium on Nuclear Symmetry Energy (NuSym 2021; organizers: Maria Colonna, Giuseppe Verde)
 * Dense matter EOS and the QCD phase diagram, August 24, invited panelist for the group discussion (with Essick, Han, Holt, Ratti, Dexheimer), Seventh Physics and Astrophysics at the eXtreme (PAX-VII) Workshop (chairs: Andrew Steiner, Jocelyn Read)
-* Rigorous uncertainty quantification of the nuclear EOS in the FRIB era, August 11, FRIB Early Achievement Award Presentation, Low-Energy Community Meeting (LECM)
+* Rigorous uncertainty quantification of the nuclear EOS in the FRIB era, August 11, invited plenary talk, FRIB Early Achievement Award Presentation, Low-Energy Community Meeting (LECM)
 * Eigenvector Continuation for scattering with local chiral nucleon-nucleon and optical potentials, April 26, invited talk, workshop INT 21-1b: Nuclear Forces for Precision Nuclear Physics (organizers: Davoudi, Ekström, Holt, Tews), Institute for Nuclear Theory, Seattle, WA, USA
 * From chiral interactions to neutron stars and why EFT truncation errors matter, April 6, invited colloquium, Texas A&M University, TX, USA
 * Implications of chiral EFT truncation errors for neutron star properties, March 19, invited seminar, Nuclear Physics Seminar, Washington University in St. Louis, MO, USA
@@ -94,7 +94,7 @@ Since 2018, I have given more than 65 talks across seven countries, including in
 ## 2018
 
 * Many-Body Perturbation Theory at High Orders and the Dilute Fermi Gas, November 17, invited talk, Second N3AS Collaboration Meeting, Berkeley, CA, USA
-* Nuclear matter based on chiral effective field theory, October 26, on the occasion of receiving the Gerhard-Herzberg award, TU Darmstadt, Germany
+* Nuclear matter based on chiral effective field theory, October 26, invited plenary talk, on the occasion of receiving the Gerhard-Herzberg award, TU Darmstadt, Germany
 * Many-Body Perturbation Theory for Nuclear Matter at High Orders, June 21, invited seminar, Institute for Nuclear Theory, Seattle, WA, USA
 * Many-Body Perturbation Theory for Nuclear Matter at High Orders, June 6, invited talk, New Ideas in Constraining Nuclear Forces (organizers: Ekström, Holt, Lynn, Tews), ECT*, Trento, Italy
 * Applications of Chiral Forces to Nuclear Matter and Neutron Stars, June 1, contributed talk, Thirteenth Conference on the Intersections of Particle and Nuclear Physics (organizers: Haxton, Casey), Palm Springs, CA, USA
