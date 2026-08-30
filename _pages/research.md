@@ -12,8 +12,8 @@ I'm a theoretical physicist working at the **intersection of nuclear physics and
 My research program is built on three interconnected themes:
 
 1. **Nuclear matter and neutron stars:** I derive microscopic constraints on the nuclear equation of state (EOS) and investigate their implications for the structure and evolution of neutron stars.
-2. **Chiral effective field theory and many-body methods:** I develop advanced many-body methods and apply chiral effective field theory (EFT) to connect the microscopic properties of nuclear matter to quantum chromodynamics (QCD).
-3. **Bayesian uncertainty quantification and fast emulators:** I develop Bayesian statistical methods and fast, accurate emulators to quantify theoretical uncertainties and enable robust comparisons between nuclear theory, laboratory experiments, and multimessenger observations.
+2. **Chiral effective field theory and many-body methods:** I develop advanced computational methods for solving the many-body Schrödinger equation using nuclear microscopic interactions derived from chiral effective field theory (EFT).
+3. **Bayesian uncertainty quantification and AI/ML methods:** I develop Bayesian statistical methods, fast, accurate emulators, and other AI/ML techniques to quantify theoretical uncertainties and enable robust comparisons between nuclear theory, laboratory experiments, and multimessenger observations.
 
 ## Open questions
 
