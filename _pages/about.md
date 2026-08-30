@@ -9,9 +9,9 @@ redirect_from:
 Hello, I'm Christian Drischler. I'm working at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at [Ohio University](https://www.ohio.edu/), where I'm:
 * an **Assistant Professor of Physics** 
 * an [FRIB](https://frib.msu.edu/) Theory Alliance Bridge Faculty,
-* an elected member of the [FRIB Theory Alliance Executive Board](https://www.fribtheoryalliance.org/index.php),
+* an elected member of the [FRIB Theory Alliance](https://www.fribtheoryalliance.org/index.php) Executive Board,
 * a senior investigator of the Physics Frontier Center [N3AS](https://n3as.berkeley.edu/), and
-* the faculty advisor of the graduate student organization [PandA GradS](https://www.ohio.edu/cas/physics-astronomy/graduate#panda-grads).
+* the elected faculty advisor of the graduate student organization [PandA GradS](https://www.ohio.edu/cas/physics-astronomy/graduate#panda-grads).
 
 My research at the intersection of **theoretical nuclear physics** and **nuclear astrophysics** centers on three interconnected thrusts. I derive microscopic constraints on the nuclear equation of state (EOS) and explore their implications for the structure and evolution of neutron stars. To obtain these constraints, I develop advanced methods for solving the many-body Schrödinger equation using microscopic nuclear interactions derived from chiral effective field theory (EFT). I complement these theoretical calculations with Bayesian statistical methods, fast and accurate emulators, and other AI/ML techniques to quantify uncertainties and enable robust comparisons among nuclear theory, laboratory experiments, and multimessenger observations.
 
