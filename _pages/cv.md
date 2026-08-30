@@ -86,20 +86,22 @@ Physical Review Letters, Physical Review C, Nuclear Physics A, Physics Letters B
 
 I'm also a S
 
-## Students
+## Research and mentoring
 
 **Current students:**  
 * Graduate students: Abhinav Giri, Yoon Gyu Lee, and Luigi Spreafico
 * Undergraduate student: Camden Kilton
   
-**Former students:**  
-* Joshua Maldonado, graduate student (summer 2023-summer 2024). Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556)
-* Grace Eichler, undergraduate student (summer 2024–spring 2025). HTC thesis: [Sensitivity of the Neutron Star Structure on the Low-Density Equation of State Parameters](http://rave.ohiolink.edu/etdc/view?acc_num=ouhonors1745511553163446)
+**Former group members:**  
+* Jane Kim, postdoctoral researcher, 2024–2025, now at Argonne National Laboratory
+* Grace Eichler, undergraduate student, 2024–2025, HTC thesis: [Sensitivity of the Neutron Star Structure on the Low-Density Equation of State Parameters](http://rave.ohiolink.edu/etdc/view?acc_num=ouhonors1745511553163446)
+* Unish Gautam, summer graduate student, 2024
+* Joshua Maldonado, graduate student, 2023–2024, Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556)
 
-## Workshops and conferences
+## Workshop and conference organization
 
-* Convener, "Nuclear Structure for Neutrinos and Astrophysics: Nuclear Matrix Elements for Neutrino and Dark Matter Interactions; Reaction Rates; Equation of State," 15th Conference on the Intersections of Particle and Nuclear Physics ([CIPANP 2025](https://agenda.hep.wisc.edu/event/2257/)), University of Wisconsin (co-conveners: Ingo Tews, Anna McCoy), June 9–13, 2025
-* Organizer, 2024 MITP program [Uncertainty Quantification in Nuclear Physics](https://indico.mitp.uni-mainz.de/event/356/), Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg University Mainz (co-organizers: Weiguang Jiang, Takayuki Miyagi, Joanna Sobczyk), June 24–28, 2024
+* Session convener, "Nuclear Structure for Neutrinos and Astrophysics: Nuclear Matrix Elements for Neutrino and Dark Matter Interactions; Reaction Rates; Equation of State" at the 15th Conference on the Intersections of Particle and Nuclear Physics ([CIPANP 2025](https://agenda.hep.wisc.edu/event/2257/)), University of Wisconsin (co-conveners: Ingo Tews, Anna McCoy), June 9–13, 2025
+* Program organizer, 2024 MITP program [Uncertainty Quantification in Nuclear Physics](https://indico.mitp.uni-mainz.de/event/356/), Mainz Institute for Theoretical Physics (MITP), Johannes Gutenberg University Mainz (co-organizers: Weiguang Jiang, Takayuki Miyagi, Joanna Sobczyk), June 24–28, 2024
 
 ## Publications
 
