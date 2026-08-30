@@ -23,6 +23,7 @@ Athens, OH 45701-2979
 ## Academic positions
 
 * Assistant Professor and FRIB Theory Alliance Bridge Faculty, Ohio University, 2022–present
+* Adjunct Assistant Professor, Facility for Rare Isotope Beams (FRIB) at Michigan State University (MSU), 08/2022–present 
 * FRIB Theory Fellow and Visiting Assistant Professor, Facility for Rare Isotope Beams, Michigan State University, 2020–2022
 * Feodor Lynen Research Fellow, University of California, Berkeley, and Lawrence Berkeley National Laboratory, 2019–2020
 * Postdoctoral Researcher, University of California, Berkeley, and Lawrence Berkeley National Laboratory, 2017–2019
@@ -33,11 +34,25 @@ Athens, OH 45701-2979
 * M.Sc., Physics, Technical University Darmstadt, Germany, 2014
 * B.Sc., Physics, Technical University Darmstadt, Germany, 2012
 
+## Research topics
+
+My research is at the intersection of theoretical nuclear physics and nuclear astrophysics, using microscopic nuclear theory and computational methods to understand strongly interacting matter, ranging from atomic nuclei to the dense matter inside neutron stars. I combine chiral effective field theory and modern many-body methods with Bayesian uncertainty quantification, fast emulators, and other AI/ML techniques to deliver robust, uncertainty-quantified predictions that connect nuclear theory to experiment and astrophysical observation.
+
+**Keywords:** nuclear matter, neutron stars, chiral effective field theory, many-body methods, Bayesian uncertainty quantification, AI/ML techniques
+
+## Funding
+
+* Senior Investigator, National Science Foundation, Physics Frontier Center [Network for Neutrinos, Nuclear Astrophysics, and Symmetries](https://n3as.berkeley.edu/) (N3AS), 2026–present
+* Principal Investigator, U.S. Department of Energy, STREAMLINE2 Collaboration: Machine Learning for Nuclear Many-Body Systems (DE-SC0026198), 2025–present
+* Principal Investigator, National Science Foundation, CAREER: Nuclear Matter from Chiral Effective Field Theory in the FRIB & Multimessenger Era ([2339043](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339043&HistoricalAwards=false)), 2024–present
+* Principal Investigator, U.S. Department of Energy, STREAMLINE Collaboration: Machine Learning for Nuclear Many-Body Systems ([DE-SC0024233](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=66cb84af-5b64-41f7-a2a8-47c38f44ef3f&rtc=24&PRoleId=10)), 2023–2025
+* Principal Investigator, Ohio University, startup funding, 2022–present
+
 ## Fellowships and awards
 
 * National Science Foundation (NSF) CAREER Award, 2024–present
-* Inaugural FRIB Early Achievement Award (Theory), Facility for Rare Isotope Beams, Michigan State University, 2021
-* FRIB Theory Alliance Fellowship, 2020–2022
+* Inaugural FRIB Achievement Award for Early Career Researchers (Theory), Facility for Rare Isotope Beams, Michigan State University, 2021
+* FRIB Theory Alliance Fellowship, Facility for Rare Isotope Beams, Michigan State University, 2020–2022
 * Feodor Lynen Fellowship, Alexander von Humboldt Foundation, 2019–2020
 * Research Award, Gerhard Herzberg Foundation, Technical University Darmstadt, 2018
 * DLR Graduate Program Fellowship, 2015–2017
@@ -46,16 +61,32 @@ Athens, OH 45701-2979
 ## Teaching
 
 * PHYS 2002: Introduction to Physics (spring 2026, fall 2026)
-* PHYS 4071/5071: Computer Simulation Methods in Physics (fall 2023, fall 2024, fall 2025)
-* PHYS 6900: [Computational Physics Summer Tutorials](https://github.com/cdrischler/compphysics-summer-tutorials) (summer 2023, summer 2024, summer 2025)
+* PHYS 5071: Computer Simulation Methods in Physics (fall 2023, fall 2024, fall 2025)
+* PHYS 6900: [Computational Physics Summer Tutorials](https://github.com/cdrischler/compphysics-summer-tutorials) (summer 2023, summer 2024, summer 2025), course developed
 * PHYS 8501: Research Seminar in Nuclear and Particle Physics and Journal Club (spring 2023, spring 2025)
 
 Additional information is available on the [Teaching page](/teaching/).
 
+## Mentoring
+
+**Current students:**  
+* Graduate students:
+  * Abhinav Giri, 2025-present, working on developing active learning scattering emulators and Bayesian calibration of chiral nucleon-nucleon forces
+  * Yoon Gyu Lee, 2023-present, defended his dissertation _Quantifying Correlated Uncertainties in Microscopic Nuclear Equation of State Calculations with Gaussian Processes_ on August 11, 2026
+  * Luigi Spreafico, 2026-present, working on many-body perturbation theory for the nuclear equation of state and single-particle energies
+* Undergraduate student:
+  * Camden Kilton, 2026-present, working on Gaussian Process modeling of the nuclear equation of state
+  
+**Former group members:**  
+* Jane Kim, postdoctoral researcher, 2024–2025, working on active learning scattering emulators and uncertainty quantification of the low-density equation of state, now at Argonne National Laboratory
+* Grace Eichler, undergraduate student, 2024–2025, HTC thesis: [Sensitivity of the Neutron Star Structure on the Low-Density Equation of State Parameters](http://rave.ohiolink.edu/etdc/view?acc_num=ouhonors1745511553163446)
+* Unish Gautam, summer graduate student, 2024, working on chiral four-body forces
+* Joshua Maldonado, graduate student, 2023–2024, Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556)
+
 ## Service
 
 **FRIB Theory Alliance:**
-* Education and Topical Programs Committee (chair), 2026–present
+* Education and Topical Programs Committee (chair), 2026–
 * Webpage Committee, 2024–present (chair since 2026)
 * Executive Board member (elected), 2024–present
 
@@ -76,26 +107,6 @@ Physical Review Letters, Physical Review C, Nuclear Physics A, Physics Letters B
 * American Physical Society, 2019–present
 * German Physical Society, 2009–present
 
-## Funding
-
-* Senior Investigator, National Science Foundation, Physics Frontier Center [Network for Neutrinos, Nuclear Astrophysics, and Symmetries](https://n3as.berkeley.edu/) (N3AS), 2026–present
-* Senior Investigator, U.S. Department of Energy, STREAMLINE2 Collaboration: Machine Learning for Nuclear Many-Body Systems (DE-SC0026198), 2025–present
-* Principal Investigator, National Science Foundation, CAREER: Nuclear Matter from Chiral Effective Field Theory in the FRIB & Multimessenger Era ([2339043](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339043&HistoricalAwards=false)), 2024–present
-* Senior Investigator, U.S. Department of Energy, STREAMLINE Collaboration: Machine Learning for Nuclear Many-Body Systems ([DE-SC0024233](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=66cb84af-5b64-41f7-a2a8-47c38f44ef3f&rtc=24&PRoleId=10)), 2023–2025
-* Principal Investigator, Ohio University, startup funding, 2022–present
-
-## Research and mentoring
-
-**Current students:**  
-* Graduate students: Abhinav Giri, Yoon Gyu Lee, and Luigi Spreafico
-* Undergraduate student: Camden Kilton
-  
-**Former group members:**  
-* Jane Kim, postdoctoral researcher, 2024–2025, now at Argonne National Laboratory
-* Grace Eichler, undergraduate student, 2024–2025, HTC thesis: [Sensitivity of the Neutron Star Structure on the Low-Density Equation of State Parameters](http://rave.ohiolink.edu/etdc/view?acc_num=ouhonors1745511553163446)
-* Unish Gautam, summer graduate student, 2024
-* Joshua Maldonado, graduate student, 2023–2024, Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556)
-
 ## Workshop and conference organization
 
 * Session convener, "Nuclear Structure for Neutrinos and Astrophysics: Nuclear Matrix Elements for Neutrino and Dark Matter Interactions; Reaction Rates; Equation of State" at the 15th Conference on the Intersections of Particle and Nuclear Physics ([CIPANP 2025](https://agenda.hep.wisc.edu/event/2257/)), University of Wisconsin (co-conveners: Ingo Tews, Anna McCoy), June 9–13, 2025
@@ -115,7 +126,3 @@ For a selection of my scientific publications, see the [Publications page](/publ
 ## Talks
 
 The complete list is available on the [Talks page](/talks/index.html).
-  
-## Research topics
-
-My research sits at the intersection of theoretical nuclear physics and nuclear astrophysics. I use microscopic nuclear theory and computational methods to study strongly interacting, strongly correlated matter, ranging from atomic nuclei to the dense matter inside neutron stars. I combine chiral effective field theory and many-body methods with Bayesian uncertainty quantification, fast emulators, and other AI/ML techniques to deliver robust predictions and connect nuclear theory with experiment and astrophysical observation.
