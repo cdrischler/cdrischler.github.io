@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a theoretical physicist working at the **intersection of nuclear physics and nuclear astrophysics**. My research aims to understand strongly interacting matter across 18 orders of magnitude, ranging from atomic nuclei studied in laboratory experiments to neutron stars observed through multimessenger astronomy.
 
-My research program is built on three interconnected themes:
+My research program is built on three interconnected thrusts:
 
 1. **Nuclear matter and neutron stars:** I derive microscopic constraints on the nuclear equation of state (EOS) and investigate their implications for the structure and evolution of neutron stars.
 2. **Chiral effective field theory and many-body methods:** I develop advanced methods for solving the many-body Schrödinger equation using nuclear microscopic interactions derived from chiral effective field theory (EFT).
