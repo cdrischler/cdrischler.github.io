@@ -22,7 +22,9 @@ I taught the course in **Fall 2023**, **Fall 2024**, and **Fall 2025** (~12 stud
 
 ## PHYS 6900: Computational Physics Summer Tutorials
 
-This course provides **graduate** students with a hands-on introduction to scientific computing and Python. Offered as a five-week summer program, it combines lectures and practical learning activities in two one-hour sessions each week, along with a collaborative final project. The course prepares students for PHYS 4071/5071: Computer Simulation Methods in Physics. Materials are available on [GitHub](https://github.com/cdrischler/compphysics-summer-tutorials). I developed this course to prepare students for the required PHYS 5071. Taught in **Summer 2023**, **Summer 2024**, and **Summer 2025** (~12 students each iteration).
+This course provides **graduate** students with a hands-on introduction to scientific computing and Python. Offered as a five-week summer program, it combines lectures and practical learning activities in two one-hour sessions each week, along with a collaborative final project. The course prepares students for PHYS 4071/5071: Computer Simulation Methods in Physics. Materials are available on [GitHub](https://github.com/cdrischler/compphysics-summer-tutorials). I developed this course to prepare students for the required PHYS 5071. 
+
+I taught the course in **Summer 2023**, **Summer 2024**, and **Summer 2025** (~12 students each iteration).
 
 ## PHYS 8501: Research Seminar in Nuclear and Particle Physics and Journal Club
 
