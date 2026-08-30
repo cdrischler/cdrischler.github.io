@@ -118,4 +118,4 @@ The complete list is available on the [Talks page](/talks/index.html).
   
 ## Research topics
 
-My research sits at the intersection of theoretical nuclear physics and nuclear astrophysics. I use microscopic nuclear theory and computational methods to study strongly interacting, strongly coupled matter, ranging from atomic nuclei to the dense matter inside neutron stars. I combine chiral effective field theory and many-body methods with Bayesian uncertainty quantification, fast emulators, and other AI/ML techniques to deliver robust predictions and connect nuclear theory with experiment and astrophysical observation.
+My research sits at the intersection of theoretical nuclear physics and nuclear astrophysics. I use microscopic nuclear theory and computational methods to study strongly interacting, strongly correlated matter, ranging from atomic nuclei to the dense matter inside neutron stars. I combine chiral effective field theory and many-body methods with Bayesian uncertainty quantification, fast emulators, and other AI/ML techniques to deliver robust predictions and connect nuclear theory with experiment and astrophysical observation.
