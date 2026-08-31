@@ -22,7 +22,7 @@ Students are highlighted in <span style="color:#2b6cb0;font-weight:bold;">blue</
 
 * P. Cook, K. Yu, C. Drischler, and S. K. Bogner (2026): PMM-IMSRG emulator for the nuclear equation of state with quantified uncertainties, [arXiv:2607.19773](https://arxiv.org/abs/2607.19773).
 * D. Neill, W. G. Newton, J. W. Holt, C. Drischler, and J. Margueron (2026): Measuring radii of merging neutron stars with interface-mode asteroseismology informed by nuclear theory and experiment, [arXiv:2606.09621](https://arxiv.org/abs/2606.09621).
-* C. Drischler, K. S. McElvain, and P. Arthuis (2026): Many-body perturbation theory for the nuclear equation of state up to fifth order, [arXiv:2603.24532](https://arxiv.org/abs/2603.24532).
+* C. Drischler, K. S. McElvain, and P. Arthuis (2026): Many-body perturbation theory for the nuclear equation of state up to fifth order, [arXiv:2603.24532](https://arxiv.org/abs/2603.24532) (Phys. Rev. C in press).
 * A. Gnech, X. Zhang, C. Drischler, R. J. Furnstahl, A. Grassi, A. Kievsky, L. E. Marcucci, and M. Viviani (2025): Emulation of Proton-Deuteron Scattering via the Reduced Basis Method and Active Learning: Detailed Description, [arXiv:2511.10420](https://arxiv.org/abs/2511.10420) (companion paper: [arXiv:2511.01844](https://arxiv.org/abs/2511.01844)).
 
 ## Five most-cited Papers
