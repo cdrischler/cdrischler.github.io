@@ -52,6 +52,7 @@ Since 2018, I have given more than 65 talks, including invited seminars and coll
 ## 2022
 
 * Nuclear matter in the FRIB era, October 24, invited Nuclear Physics Seminar, University of Notre Dame, South Bend, IN, USA
+* Nuclear matter theory and challenges at higher density, October 14, invited talk, ACFI Workshop "The future of neutron-rich matter: from neutron skins to neutron stars" (organized by Kumar), Amherst Center for Fundamental Interactions, University of Massachusetts Amherst, Amherst, MA, USA
 * How well do we know the nuclear saturation point?, October 1, contributed plenary talk, The 33rd Midwest Theory Get-Together 2022 (organizers: Fossez, Cloët, Lovato, Stroberg, Zhao), Argonne National Laboratory, Lemont, IL, USA
 * Equation of State of Neutron-Rich Matter and Relevance for Neutron Stars, September 1, invited plenary talk, 14th Conference on the Intersections of Particle and Nuclear Physics (organizers: Casey, Balantekin), Orlando, FL, USA
 * Theoretical advances and uncertainty quantification of neutron star properties, July 21, invited overview talk, INT–22–2a: Neutron Rich Matter on Heaven and Earth (organizers: Chatziioannou, Piekarewicz, Watts), Institute for Nuclear Theory, Seattle, WA, USA

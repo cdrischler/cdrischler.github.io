@@ -314,6 +314,11 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # talk map embedded on the Talks page (not a standalone page)
+  - scope:
+      path: "_talks/map.html"
+    values:
+      sitemap: false
 
 
 # Sass/SCSS
