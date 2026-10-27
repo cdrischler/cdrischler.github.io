@@ -1,4 +1,4 @@
-Athens, Ohio, USA
+Athens, OH, USA
 Seattle, WA, USA
 Knoxville, TN, USA
 East Lansing, MI, USA
@@ -40,3 +40,4 @@ Athens, OH, USA
 San Diego, CA, USA
 Tallahassee, FL, USA
 College Station, TX, USA
+Lexington, KY, USA

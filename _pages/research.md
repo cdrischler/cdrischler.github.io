@@ -54,7 +54,7 @@ My research program is tightly coupled to the **Facility for Rare Isotope Beams 
 In the meantime, let me draw your attention to the following pedagogical review articles for further reading:
 
 * C. Drischler, J. W. Holt, and C. Wellenhofer (2021): Chiral Effective Field Theory and the High-Density Nuclear Equation of State, [Annu. Rev. Nucl. Part. Sci. **71**, 403](https://doi.org/10.1146/annurev-nucl-102419-041903).
-* C. Drischler, J. A. Melendez, R. J. Furnstahl, A. J. Garcia, and Xilin Zhang (2023): BUQEYE Guide to Projection-Based Emulators in Nuclear Physics, [Front. Phys. **10**, 92931](https://doi.org/10.3389/fphy.2022.1092931) ([source code](https://github.com/buqeye/frontiers-emulator-review)).
+* C. Drischler, J. A. Melendez, R. J. Furnstahl, A. J. Garcia, and Xilin Zhang (2023): BUQEYE Guide to Projection-Based Emulators in Nuclear Physics, [Front. Phys. **10**, 1092931](https://doi.org/10.3389/fphy.2022.1092931) ([source code](https://github.com/buqeye/frontiers-emulator-review)).
 
 I recently gave the recorded [**Science Café**](https://www.ohio.edu/sciencecafe) titled [The Strong Force Awakens: A Neutron Star Story](https://www.youtube.com/watch?v=0BK1xyjJ0UQ), which covered many of the mentioned subjects in a generally accessible way.
 

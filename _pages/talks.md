@@ -9,7 +9,7 @@ redirect_from:
 
 Since 2018, I have given more than 65 talks, including invited seminars and colloquia. The map below shows their locations.
 
-<iframe src="map.html" height="500px" width="100%" style="border:none;"></iframe>
+<iframe src="map.html" title="Map of talk locations" height="500px" width="100%" style="border:none;"></iframe>
 
 ## 2026
 
