@@ -71,11 +71,11 @@ Additional information is available on the [Teaching page](/teaching/).
 
 **Current students:**  
 * Graduate students:
-  * Abhinav Giri, 2025-present, working on developing active learning scattering emulators and Bayesian calibration of chiral nucleon-nucleon forces
-  * Yoon Gyu Lee, 2023-present, defended his dissertation _Quantifying Correlated Uncertainties in Microscopic Nuclear Equation of State Calculations with Gaussian Processes_ on August 11, 2026
-  * Luigi Spreafico, 2026-present, working on many-body perturbation theory for the nuclear equation of state and single-particle energies
+  * Abhinav Giri, 2025–present, working on developing active learning scattering emulators and Bayesian calibration of chiral nucleon-nucleon forces
+  * Yoon Gyu Lee, 2023–present, defended his dissertation _Quantifying Correlated Uncertainties in Microscopic Nuclear Equation of State Calculations with Gaussian Processes_ on August 11, 2026
+  * Luigi Spreafico, 2026–present, working on many-body perturbation theory for the nuclear equation of state and single-particle energies
 * Undergraduate student:
-  * Camden Kilton, 2026-present, working on Gaussian Process modeling of the nuclear equation of state
+  * Camden Kilton, 2026–present, working on Gaussian Process modeling of the nuclear equation of state
   
 **Former group members:**  
 * Jane Kim, postdoctoral researcher, 2024–2025, working on active learning scattering emulators and uncertainty quantification of the low-density equation of state, now at Argonne National Laboratory
@@ -87,8 +87,8 @@ Additional information is available on the [Teaching page](/teaching/).
 
 * Department of Physics & Astronomy Colloquium Committee member, 2026–present
 * Undergraduate Assessment Committee, 2025–present
-* Various Search Committees, 2023-2025
-* Various Master's and Ph.D. Committees, Department of Physics & Astronomy and Mathematics Department, 2022-present
+* Various Search Committees, 2023–2025
+* Various Master's and Ph.D. Committees, Department of Physics & Astronomy and Mathematics Department, 2022–present
 * Astronomy Outreach Committee, 2022–present
 * Faculty advisor of the "Physics and Astronomy Graduate Students" ([PandA GradS](https://www.ohio.edu/cas/physics-astronomy/graduate#panda-grads)) student organization, 2022–present
 

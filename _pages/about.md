@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Hello, I'm Christian Drischler. I'm working at the [Institute of Nuclear and Particle Physics (INPP)](https://inpp.ohio.edu/~inpp/) at [Ohio University](https://www.ohio.edu/), where I'm:
-* an **Assistant Professor of Physics** 
+* an **Assistant Professor of Physics**,
 * an [FRIB](https://frib.msu.edu/) Theory Alliance Bridge Faculty,
 * an elected member of the [FRIB Theory Alliance](https://www.fribtheoryalliance.org/index.php) Executive Board,
 * a senior investigator of the Physics Frontier Center [N3AS](https://n3as.berkeley.edu/), and

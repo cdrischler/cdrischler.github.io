@@ -188,6 +188,34 @@ exclude:
   - README
   - tmp
   - vendor
+  # repo-only files (not part of the site)
+  - README.md
+  - CONTRIBUTING.md
+  - docker-compose.yaml
+  - markdown_generator
+  - talkmap            # notebook output; the live map is _talks/map.html
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - talkmap.py
+  - talk_location_data.txt
+  # unused template images
+  - images/3953273590_704e3899d5_m.jpg
+  - images/500x300.png
+  - images/bio-photo.jpg
+  - images/bio-photo-2.jpg
+  - images/editing-talk.png
+  - images/foo-bar-identity.jpg
+  - images/foo-bar-identity-th.jpg
+  - images/homepage.png
+  - images/image-alignment-150x150.jpg
+  - images/image-alignment-300x200.jpg
+  - images/image-alignment-580x300.jpg
+  - images/image-alignment-1200x4002.jpg
+  - images/paragraph-indent.png
+  - images/paragraph-no-indent.png
+  - images/profile.png
+  - images/site-logo.png
+  - images/themes
 keep_files:
   - .git
   - .svn
