@@ -1,0 +1,44 @@
+# Research group at Ohio University.
+# Used by _includes/group-about.md (About page) and _includes/group-cv.md (CV page).
+# To add someone: add an entry under "current". When someone leaves: move the entry to
+# "past", add "end", and (optionally) "after" (e.g., "now at ...").
+# role: "graduate student", "undergraduate student", "postdoctoral researcher", "summer graduate student"
+
+current:
+  - name: Camden Kilton
+    role: undergraduate student
+    start: 2026
+    cv: working on Gaussian Process modeling of the nuclear equation of state
+  - name: Luigi Spreafico
+    role: graduate student
+    start: 2026
+    cv: working on many-body perturbation theory for the nuclear equation of state and single-particle energies
+  - name: Abhinav Giri
+    role: graduate student
+    start: 2025
+    cv: working on developing active learning scattering emulators and Bayesian calibration of chiral nucleon-nucleon forces
+  - name: Yoon Gyu Lee
+    role: graduate student
+    start: 2023
+    cv: defended his dissertation _Quantifying Correlated Uncertainties in Microscopic Nuclear Equation of State Calculations with Gaussian Processes_ on August 11, 2026
+
+past:
+  - name: Jane Kim
+    role: postdoctoral researcher
+    period: 2024–2025
+    about: now at Argonne National Laboratory
+    cv: working on active learning scattering emulators and uncertainty quantification of the low-density equation of state, now at Argonne National Laboratory
+  - name: Grace Eichler
+    role: undergraduate student
+    period: 2024–2025
+    about: HTC thesis 2025
+    cv: "HTC thesis: [Sensitivity of the Neutron Star Structure on the Low-Density Equation of State Parameters](http://rave.ohiolink.edu/etdc/view?acc_num=ouhonors1745511553163446)"
+  - name: Unish Gautam
+    role: summer graduate student
+    period: 2024
+    cv: working on chiral four-body forces
+  - name: Joshua Maldonado
+    role: graduate student
+    period: 2023–2024
+    about: M.S. thesis 2024
+    cv: "Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556)"

@@ -29,7 +29,7 @@ Since 2018, I have given more than 65 talks, including invited seminars and coll
 
 ## 2024
 
-* Fast and accurate emulators for nuclear physics and beyond, November 19, invited Department of Mathematics colloquium, Ohio University, Athens, Ohio, USA
+* Fast and accurate emulators for nuclear physics and beyond, November 19, invited Department of Mathematics colloquium, Ohio University, Athens, OH, USA
 * Microscopic Equation of State Constraints and Bayesian Uncertainty Quantification, September 9, invited talk (given remotely), XIIth International Symposium on Nuclear Symmetry Energy (NUSYM 2024, organizers: Chbihi, Ciampi, Fantina, Gruyer), Grand Accélérateur National d'Ions Lourds (GANIL), Caen, France
 * From Low to High Densities: Bayesian Uncertainty Quantification of the EOS, August 26, invited talk, INT Workshop INT-24-89W: EOS Measurements with Next-Generation Gravitational-Wave Detectors (organizers: Landry, Raithel, Vitale, Constantinou, Han, and Zhao), Institute for Nuclear Theory, Seattle, WA, USA
 * A Greedy Algorithm for Nuclear Two-Body Scattering, August 8, contributed talk, Low-Energy Community Meeting (LECM), University of Tennessee Knoxville and Oak Ridge National Laboratory, Knoxville, TN, USA
@@ -74,13 +74,13 @@ Since 2018, I have given more than 65 talks, including invited seminars and coll
 * Dense matter EOS and the QCD phase diagram, August 24, invited panelist for the group discussion (with Essick, Han, Holt, Ratti, Dexheimer), Seventh Physics and Astrophysics at the eXtreme (PAX-VII) Workshop (chairs: Andrew Steiner, Jocelyn Read)
 * Rigorous uncertainty quantification of the nuclear EOS in the FRIB era, August 11, invited plenary talk, FRIB Early Achievement Award Presentation, Low-Energy Community Meeting (LECM)
 * Eigenvector Continuation for scattering with local chiral nucleon-nucleon and optical potentials, April 26, invited talk, workshop INT 21-1b: Nuclear Forces for Precision Nuclear Physics (organizers: Davoudi, Ekström, Holt, Tews), Institute for Nuclear Theory, Seattle, WA, USA
-* From chiral interactions to neutron stars and why EFT truncation errors matter, April 6, invited colloquium, Texas A&M University, TX, USA
+* From chiral interactions to neutron stars and why EFT truncation errors matter, April 6, invited colloquium, Texas A&M University, College Station, TX, USA
 * Implications of chiral EFT truncation errors for neutron star properties, March 19, invited seminar, Nuclear Physics Seminar, Washington University in St. Louis, MO, USA
 * Nuclear EOS: uncertainty quantification and applications to neutron stars, March 8, invited seminar, UK Lockdown Nuclear Seminar, organized by the University of Liverpool and University of Manchester
 
 ## 2020 (virtual due to COVID pandemic)
 
-* Why correlated effective field theory uncertainties matter: nuclear symmetry energy, November 1, contributed talk, 2020 Fall Meeting of the APS Division of Nuclear Physics, Michigan State University, MI, USA
+* Why correlated effective field theory uncertainties matter: nuclear symmetry energy, November 1, contributed talk, 2020 Fall Meeting of the APS Division of Nuclear Physics, Michigan State University, East Lansing, MI, USA
 * Quantifying uncertainties in the nuclear-matter equation of state, August 10, contributed talk, Low-Energy Community Meeting (LECM), Facility for Rare Isotope Beams (FRIB), East Lansing, MI, USA
 * Quantifying uncertainties in the nuclear-matter equation of state, May 28, invited seminar, Institute for Nuclear Theory, Seattle, WA, USA
 
@@ -96,7 +96,7 @@ Since 2018, I have given more than 65 talks, including invited seminars and coll
 ## 2018
 
 * Many-Body Perturbation Theory at High Orders and the Dilute Fermi Gas, November 17, invited talk, Second N3AS Collaboration Meeting, Berkeley, CA, USA
-* Nuclear matter based on chiral effective field theory, October 26, invited plenary talk, on the occasion of receiving the Gerhard-Herzberg award, TU Darmstadt, Germany
+* Nuclear matter based on chiral effective field theory, October 26, invited plenary talk, on the occasion of receiving the Gerhard-Herzberg award, TU Darmstadt, Darmstadt, Germany
 * Many-Body Perturbation Theory for Nuclear Matter at High Orders, June 21, invited seminar, Institute for Nuclear Theory, Seattle, WA, USA
 * Many-Body Perturbation Theory for Nuclear Matter at High Orders, June 6, invited talk, New Ideas in Constraining Nuclear Forces (organizers: Ekström, Holt, Lynn, Tews), ECT*, Trento, Italy
 * Applications of Chiral Forces to Nuclear Matter and Neutron Stars, June 1, contributed talk, Thirteenth Conference on the Intersections of Particle and Nuclear Physics (organizers: Haxton, Casey), Palm Springs, CA, USA

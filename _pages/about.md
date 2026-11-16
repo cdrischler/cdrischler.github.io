@@ -21,23 +21,14 @@ Learn more about my [research](/research/index.html), [publications](/publicatio
 
 ## Research group at Ohio University
 
-My **current research group** consists of:
-* Camden Kilton, undergraduate student, 2026–present
-* Luigi Spreafico, graduate student, 2026–present
-* Abhinav Giri, graduate student, 2025–present
-* Yoon Gyu Lee, graduate student, 2023–present
-
-My group welcomes inquiries from prospective students and postdocs.
+{% include group-about.md %}
 
 > **Interested in a Research Fellowship of the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/) (such as the [Feodor Lynen Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/feodor-lynen-research-fellowship))?**     
 > I'd be happy to serve as your host at Ohio University. Please don't hesitate to reach out.
 
 ### Past group members
 
-* Jane Kim, postdoctoral researcher, 2024–2025, now at Argonne National Laboratory
-* Grace Eichler, undergraduate student, HTC thesis 2025, 2024–2025
-* Unish Gautam, summer graduate student, 2024
-* Joshua Maldonado, graduate student, M.S. thesis 2024, 2023–2024
+{% include group-about-past.md %}
 
 ## In the news
 

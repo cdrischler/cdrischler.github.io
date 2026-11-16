@@ -50,7 +50,7 @@ My research is at the intersection of theoretical nuclear physics and nuclear as
 
 ## Fellowships and awards
 
-* National Science Foundation (NSF) CAREER Award, 2024–present
+* National Science Foundation (NSF) CAREER Award, 2024
 * Inaugural FRIB Achievement Award for Early Career Researchers (Theory), Facility for Rare Isotope Beams, Michigan State University, 2021
 * FRIB Theory Alliance Fellowship, Facility for Rare Isotope Beams, Michigan State University, 2020–2022
 * Feodor Lynen Fellowship, Alexander von Humboldt Foundation, 2019–2020
@@ -62,6 +62,7 @@ My research is at the intersection of theoretical nuclear physics and nuclear as
 
 * PHYS 2002: Introduction to Physics (spring 2026, fall 2026)
 * PHYS 5071: Computer Simulation Methods in Physics (fall 2023, fall 2024, fall 2025)
+* PHYS 6011: Statistical Mechanics I (spring 2027, upcoming)
 * PHYS 6900: [Computational Physics Summer Tutorials](https://github.com/cdrischler/compphysics-summer-tutorials) (summer 2023, summer 2024, summer 2025), course developed
 * PHYS 8501: Research Seminar in Nuclear and Particle Physics and Journal Club (spring 2023, spring 2025)
 
@@ -69,19 +70,7 @@ Additional information is available on the [Teaching page](/teaching/).
 
 ## Mentoring
 
-**Current students:**  
-* Graduate students:
-  * Abhinav Giri, 2025–present, working on developing active learning scattering emulators and Bayesian calibration of chiral nucleon-nucleon forces
-  * Yoon Gyu Lee, 2023–present, defended his dissertation _Quantifying Correlated Uncertainties in Microscopic Nuclear Equation of State Calculations with Gaussian Processes_ on August 11, 2026
-  * Luigi Spreafico, 2026–present, working on many-body perturbation theory for the nuclear equation of state and single-particle energies
-* Undergraduate student:
-  * Camden Kilton, 2026–present, working on Gaussian Process modeling of the nuclear equation of state
-  
-**Former group members:**  
-* Jane Kim, postdoctoral researcher, 2024–2025, working on active learning scattering emulators and uncertainty quantification of the low-density equation of state, now at Argonne National Laboratory
-* Grace Eichler, undergraduate student, 2024–2025, HTC thesis: [Sensitivity of the Neutron Star Structure on the Low-Density Equation of State Parameters](http://rave.ohiolink.edu/etdc/view?acc_num=ouhonors1745511553163446)
-* Unish Gautam, summer graduate student, 2024, working on chiral four-body forces
-* Joshua Maldonado, graduate student, 2023–2024, Master's thesis: [A Greedy Algorithm for Nuclear Two-Body Scattering (2024)](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1726590160450187&clear=10&session=13305979492556)
+{% include group-cv.md %}
 
 ## Ohio University Committees
 
