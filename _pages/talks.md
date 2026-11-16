@@ -13,7 +13,7 @@ Since 2018, I have given more than 65 talks, including invited seminars and coll
 
 ## 2026
 
-* PHYS 4071/5071 Computer Simulation Methods in Physics: Three years of a hands-on, Python-based course and its Computational Summer Schools at Ohio University, October 17, invited talk, AAPT-Appalachian Fall 2026 Meeting, Ohio University, OH, USA
+* PHYS 4071/5071 Computer Simulation Methods in Physics: Three years of a hands-on, Python-based course and its Computational Summer Schools at Ohio University, October 17, invited talk, AAPT-Appalachian Fall 2026 Meeting, Ohio University, Athens, OH, USA
 * Many-Body Calculations and Emulation of the Nuclear Equation of State, August 13, contributed talk, Low-Energy Community Meeting (LECM), Argonne National Laboratory, Lemont, IL, USA
 * Fast and accurate emulators for nuclear scattering, May 22, contributed talk, 2026 STREAMLINE2 Symposium (organized by Lee), Facility for Rare Isotope Beams (FRIB), East Lansing, MI, USA
 * Fast and accurate emulators for scattering and nuclear matter, May 12, invited talk, Nuclear Hamiltonians for Advancing Nuclear Physics and Beyond (INT-26-1; organized by Davoudi, Ekström, Holt, Sobczyk, and Tews), Institute for Nuclear Theory, Seattle, WA, USA
@@ -24,7 +24,7 @@ Since 2018, I have given more than 65 talks, including invited seminars and coll
 * From chiral effective field theory to perturbative QCD: A Bayesian model mixing approach to neutron star matter, October 9, invited Nuclear Science Seminar, University of Kentucky, Lexington, KY, USA
 * Active learning for the nuclear equation of state and nuclear scattering, August 14, contributed talk, Low-Energy Community Meeting (LECM), Texas A&M University, College Station, TX, USA
 * Fast & accurate emulators for two- and three-body scattering, July 15, invited talk, Workshop: Next generation ab initio nuclear theory (organizers: Barbieri, Epelbaum, Furnstahl, and Pastore), ECT*, Trento, Italy
-* How do we construct microscopic neutron star equations of state with quantified uncertainties?, May 9, invited Chalk Talk, Florida State University, FL, USA
+* How do we construct microscopic neutron star equations of state with quantified uncertainties?, May 9, invited Chalk Talk, Florida State University, Tallahassee, FL, USA
 * Fast and accurate emulators for nuclear scattering, March 10, invited seminar, Institute for Nuclear Theory, Seattle, WA, USA
 
 ## 2024
