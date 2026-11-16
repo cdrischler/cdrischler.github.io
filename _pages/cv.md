@@ -84,6 +84,7 @@ Additional information is available on the [Teaching page](/teaching/).
 ## National and International Committees
 
 * FRIB Theory Alliance Executive Board, elected member, chair of Education and Topical Programs Committee (since 06/2026), and member of the Webpage Committee (chair since 06/2026), 2024–present
+* Chair, N3AS Postdoctoral Fellow Search Committee, 2026–2027
 * Chair of the FRIB/NSCL Nuclear Theory Seminar Committee, 2021–2022
 
 ## Community Engagement
